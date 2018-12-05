@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "description:": "test desc",
+  "items": [
+    "one", "two", "three"
+  ]
+}
