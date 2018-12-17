@@ -1,13 +1,15 @@
 {
-  "content": {},
+  "content": {
+    "media": {}
+  },
   "githubFileName": null,
-  "id": "cjprph2qs0d7z0130nk203vvw",
-  "isHidden": null,
-  "isTitleSlide": true,
-  "key": "cjprph0yy0czw0121fthz7sgf 4890463436 Title Slide",
+  "id": "cjps1qhx411n30130mprtz9ls",
+  "isHidden": false,
+  "isTitleSlide": false,
+  "key": "cjprph2qs0d7y0130izoan8dm1",
   "orderIndex": null,
-  "previewURL": null,
-  "settingAddToResources": null,
-  "subtitle": "New Lesson",
-  "title": "New Lesson"
+  "previewURL": "",
+  "settingAddToResources": false,
+  "subtitle": "",
+  "title": "media"
 }
