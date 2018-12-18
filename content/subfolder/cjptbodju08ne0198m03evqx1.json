@@ -35,23 +35,7 @@
                     },
                     {
                       "object": "leaf",
-                      "text": " ",
-                      "marks": []
-                    },
-                    {
-                      "object": "leaf",
-                      "text": "rich",
-                      "marks": [
-                        {
-                          "object": "mark",
-                          "type": "bold",
-                          "data": {}
-                        }
-                      ]
-                    },
-                    {
-                      "object": "leaf",
-                      "text": " text, ",
+                      "text": " poor text, ",
                       "marks": []
                     },
                     {
