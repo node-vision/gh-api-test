@@ -1,13 +1,28 @@
 {
-  "content": {},
+  "content": {
+    "interactive": {
+      "type": "multiple_free_text",
+      "columns": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
   "githubFileName": null,
-  "id": "cjpswortb08ku0121yoao6k91",
-  "isHidden": null,
-  "isTitleSlide": true,
-  "key": "cjpsvq9af05z70121cyor3wbv 1412234181 Title Slide",
+  "id": "cjpsxa3t80aou0121tqn6bm5u",
+  "isHidden": false,
+  "isTitleSlide": false,
+  "key": "cjpswortb08kt01210x815x3e6",
   "orderIndex": null,
-  "previewURL": null,
-  "settingAddToResources": null,
-  "subtitle": "This lesson is for testing",
-  "title": "Testing"
+  "previewURL": "",
+  "settingAddToResources": false,
+  "subtitle": "",
+  "title": "Required"
 }
