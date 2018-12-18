@@ -1,5 +1,18 @@
 {
   "content": {
+    "media": {
+      "type": "video",
+      "url": "https://vimeo.com/267318262",
+      "caption": ""
+    },
+    "link": {
+      "name": "",
+      "url": ""
+    },
+    "file": {
+      "description": "",
+      "url": ""
+    },
     "text": {
       "text": {
         "object": "value",
@@ -9,7 +22,7 @@
           "nodes": [
             {
               "object": "block",
-              "type": "heading-one",
+              "type": "heading-two",
               "data": {
                 "textAlign": "center"
               },
@@ -19,7 +32,71 @@
                   "leaves": [
                     {
                       "object": "leaf",
-                      "text": "This is a slide to check out the functionality of everything",
+                      "text": "This is ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "editable",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "italic",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "rich",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " text, ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "much",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "italic",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " better than a ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "<textarea>",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "underlined",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "!",
                       "marks": []
                     }
                   ]
@@ -291,13 +368,13 @@
     }
   },
   "githubFileName": null,
-  "id": "cjpsx09qn09ed0198i84nu4ts",
+  "id": "cjpsxa3qu09zp0198iy4e3dxa",
   "isHidden": false,
   "isTitleSlide": false,
-  "key": "cjpswortb08kt01210x815x3e1",
+  "key": "cjpswortb08kt01210x815x3e7",
   "orderIndex": null,
   "previewURL": "",
   "settingAddToResources": false,
   "subtitle": "",
-  "title": "Testing Slide"
+  "title": "Required"
 }
