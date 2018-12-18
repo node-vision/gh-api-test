@@ -1,16 +1,42 @@
 {
   "content": {
-    "media": {},
-    "file": {
-      "description": "file",
-      "url": ""
+    "interactive": {
+      "type": "categories",
+      "firstCategory": {
+        "title": "Category",
+        "list": [
+          {
+            "title": ""
+          },
+          {
+            "title": ""
+          },
+          {
+            "title": ""
+          }
+        ]
+      },
+      "secondCategory": {
+        "title": "Category",
+        "list": [
+          {
+            "title": ""
+          },
+          {
+            "title": ""
+          },
+          {
+            "title": ""
+          }
+        ]
+      }
     }
   },
   "githubFileName": null,
-  "id": "cjpsxa3pj0aop0121wtgzc52e",
+  "id": "cjpsxa3mc0aoa0121dblhss00",
   "isHidden": false,
   "isTitleSlide": false,
-  "key": "cjpswortb08kt01210x815x3e3",
+  "key": "cjpswortb08kt01210x815x3e5",
   "orderIndex": null,
   "previewURL": "",
   "settingAddToResources": false,
