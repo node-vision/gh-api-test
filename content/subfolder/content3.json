@@ -1,25 +1,42 @@
 {
   "content": {
     "interactive": {
-      "type": "multiple_free_text",
-      "columns": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
+      "type": "categories",
+      "firstCategory": {
+        "title": "Category",
+        "list": [
+          {
+            "title": ""
+          },
+          {
+            "title": ""
+          },
+          {
+            "title": ""
+          }
+        ]
+      },
+      "secondCategory": {
+        "title": "Category",
+        "list": [
+          {
+            "title": ""
+          },
+          {
+            "title": ""
+          },
+          {
+            "title": ""
+          }
+        ]
+      }
     }
   },
   "githubFileName": null,
-  "id": "cjpsxa3t80aou0121tqn6bm5u",
+  "id": "cjpsxa3mc0aoa0121dblhss00",
   "isHidden": false,
   "isTitleSlide": false,
-  "key": "cjpswortb08kt01210x815x3e6",
+  "key": "cjpswortb08kt01210x815x3e5",
   "orderIndex": null,
   "previewURL": "",
   "settingAddToResources": false,
