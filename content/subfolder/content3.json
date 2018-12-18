@@ -1,25 +1,13 @@
 {
-  "content": {
-    "media": {
-      "url": "https://res.cloudinary.com/inside-out/image/upload/v1544692653/oqfjlawewhbeobomkcij.png",
-      "imageSize": "fit",
-      "imageAlign": "alignLeft",
-      "caption": "",
-      "type": "image"
-    },
-    "file": {
-      "description": "file",
-      "url": ""
-    }
-  },
+  "content": {},
   "githubFileName": null,
-  "id": "cjpme5teq03xe0192gq46z36b",
-  "isHidden": false,
-  "isTitleSlide": false,
-  "key": "cjpc45cuf4soc0136m3oe39xd1",
+  "id": "cjpmc6yn4140w01715o0x843e",
+  "isHidden": null,
+  "isTitleSlide": true,
+  "key": "cjpmc6x4u140p0171zo79qft0 5752344184 Title Slide",
   "orderIndex": null,
-  "previewURL": "",
-  "settingAddToResources": false,
-  "subtitle": "",
-  "title": "fdsfd"
+  "previewURL": null,
+  "settingAddToResources": null,
+  "subtitle": "New Lesson",
+  "title": "New Lesson"
 }
