@@ -1,13 +1,376 @@
 {
-  "content": {},
+  "content": {
+    "media": {},
+    "link": {
+      "name": "",
+      "url": ""
+    },
+    "file": {
+      "description": "",
+      "url": ""
+    },
+    "text": {
+      "text": {
+        "object": "value",
+        "document": {
+          "object": "document",
+          "data": {},
+          "nodes": [
+            {
+              "object": "block",
+              "type": "heading-two",
+              "data": {
+                "textAlign": "center"
+              },
+              "nodes": [
+                {
+                  "object": "text",
+                  "leaves": [
+                    {
+                      "object": "leaf",
+                      "text": "This is ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "editable",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "italic",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "rich",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " text, ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "much",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "italic",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " better than a ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "<textarea>",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "underlined",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "!",
+                      "marks": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "type": "paragraph",
+              "data": {
+                "textAlign": "center"
+              },
+              "nodes": [
+                {
+                  "object": "text",
+                  "leaves": [
+                    {
+                      "object": "leaf",
+                      "text": "Since it's rich text, you ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "can",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "underlined",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " do ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "things",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " like turn a ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "selection",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "link",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " of ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "text",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "definition",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "bold",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": ", or add a ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "semantically",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "colored",
+                          "data": {
+                            "color": "#6AC8C8"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "rendered",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "colored",
+                          "data": {
+                            "color": "#F8DA3D"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "block",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "colored",
+                          "data": {
+                            "color": "#F26C22"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "quote",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "colored",
+                          "data": {
+                            "color": "#F5A81E"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " in the ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "middle",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "colored",
+                          "data": {
+                            "color": "#4598CB"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " of the ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "page",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "colored",
+                          "data": {
+                            "color": "#714B9F"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": ", like this:",
+                      "marks": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "type": "block-quote",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "text",
+                  "leaves": [
+                    {
+                      "object": "leaf",
+                      "text": "A wise quote.",
+                      "marks": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "type": "heading-three",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "text",
+                  "leaves": [
+                    {
+                      "object": "leaf",
+                      "text": "Try it out for ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "yourself",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "colored",
+                          "data": {
+                            "color": "#F05B5E"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "!",
+                      "marks": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
   "githubFileName": null,
-  "id": "cjpsj8slt0k3j0170ve1ov4mj",
-  "isHidden": null,
-  "isTitleSlide": true,
-  "key": "cjpsj8hqk0k6z0152ifdqigrf 1826549975 Title Slide",
+  "id": "cjprztv2y0r120124b6uhrosc",
+  "isHidden": false,
+  "isTitleSlide": false,
+  "key": "cjpmc6yn3140v0171vsaq63281",
   "orderIndex": null,
-  "previewURL": null,
-  "settingAddToResources": null,
-  "subtitle": "New Lesson",
-  "title": "New Lesson 22"
+  "previewURL": "",
+  "settingAddToResources": false,
+  "subtitle": "",
+  "title": "TMLF"
 }
