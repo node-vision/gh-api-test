@@ -1,6 +1,6 @@
 {
   "id": "cjpv7j0wj013i0175xoeouhg2",
-  "title": "New Lesson 1",
+  "title": "New Lesson1",
   "module": {
     "id": "cjpv7isxq013101759srlwarz",
     "name": "module",
@@ -11,7 +11,7 @@
   },
   "slides": [
     {
-      "subtitle": "New Lesson",
+      "subtitle": "New Lesdfdsfsdf",
       "isTitleSlide": true,
       "eLibraryTags": [],
       "isHidden": null,
@@ -24,7 +24,31 @@
       "slideType": {
         "name": "title_slide"
       },
-      "title": "New Lesson"
+      "title": "New Lesson1"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpv7j0wj013i0175xoeouhg2title1",
+      "content": {
+        "media": {
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545225876/zbcti4mecr2wftuhqrsw.png",
+          "imageSize": "fit",
+          "imageAlign": "alignLeft",
+          "caption": "caption",
+          "type": "image"
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media"
+      },
+      "title": "title"
     }
   ]
 }
