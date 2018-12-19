@@ -1,6 +1,6 @@
 {
   "id": "cjpvo3yu500qv01201zeqefxh",
-  "title": "New Lesson 1",
+  "title": "Group Slide",
   "module": {
     "id": "cjpvo3qdo00qf0120mrwqf99s",
     "name": "Module Test",
@@ -24,7 +24,7 @@
       "slideType": {
         "name": "title_slide"
       },
-      "title": "New Lesson"
+      "title": "Group Slide"
     }
   ]
 }
