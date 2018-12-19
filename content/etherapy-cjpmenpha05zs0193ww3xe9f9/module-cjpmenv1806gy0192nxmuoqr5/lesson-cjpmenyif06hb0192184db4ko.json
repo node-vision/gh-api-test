@@ -1229,6 +1229,34 @@
         "name": "media_text"
       },
       "title": "media text"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpmenyif06hb0192184db4komedia file7",
+      "content": {
+        "media": {
+          "url": "https://images.oyster.com/articles/18446-yellowstone.jpg",
+          "imageSize": "fit",
+          "imageAlign": "alignLeft",
+          "caption": "caption",
+          "type": "image"
+        },
+        "file": {
+          "description": "filedddf",
+          "url": ""
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media_file"
+      },
+      "title": "media file"
     }
   ]
 }
