@@ -1,6 +1,6 @@
 {
   "id": "cjpv0kgzo068a0105ys94it24",
-  "title": "New Lessons",
+  "title": "rr",
   "module": {
     "id": "cjpv0kbg0063t0176l62aph3h",
     "name": "Module 1",
@@ -9,5 +9,24 @@
       "name": "etherapy 222"
     }
   },
-  "slides": []
+  "slides": [
+    {
+      "subtitle": "rr",
+      "isTitleSlide": true,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpv0kgzo068a0105ys94it24rr0",
+      "content": {
+        "media": {}
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "title_slide"
+      },
+      "title": "rr"
+    }
+  ]
 }
