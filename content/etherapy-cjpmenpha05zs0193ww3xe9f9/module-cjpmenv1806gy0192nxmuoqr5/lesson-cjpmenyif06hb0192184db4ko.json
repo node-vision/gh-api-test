@@ -491,10 +491,7 @@
           "caption": "ddddd",
           "type": "image"
         },
-        "file": {
-          "description": "filesdsd",
-          "url": ""
-        },
+        "file": "https://res.cloudinary.com/inside-out/image/upload/v1545196300/pzb8wlqiek6k6x6t26ti.svg",
         "text": {
           "text": {
             "object": "value",
