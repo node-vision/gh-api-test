@@ -103,10 +103,16 @@
       "githubFileName": null,
       "key": "cjpmenyif06hb0192184db4koddfsdf4",
       "content": {
-        "media": {},
+        "media": {
+          "url": "https://images.oyster.com/articles/18446-yellowstone.jpg",
+          "imageSize": "fit",
+          "imageAlign": "alignLeft",
+          "caption": "Image caption",
+          "type": "image"
+        },
         "link": {
-          "name": "",
-          "url": ""
+          "name": "Link title",
+          "url": "https://images.oyster.com/articles/18446-yellowstone.jpg"
         },
         "text": {
           "text": {
@@ -467,7 +473,7 @@
       "slideType": {
         "name": "media_text_link"
       },
-      "title": "ddfsdf"
+      "title": "Media text link slide"
     }
   ]
 }
