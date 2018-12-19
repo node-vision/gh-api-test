@@ -39,7 +39,7 @@
           "url": "https://res.cloudinary.com/inside-out/image/upload/v1545129012/nx2ykq74nsbigudla9wf.png",
           "imageSize": "fit",
           "imageAlign": "alignLeft",
-          "caption": "",
+          "caption": "caption",
           "type": "image"
         }
       },
