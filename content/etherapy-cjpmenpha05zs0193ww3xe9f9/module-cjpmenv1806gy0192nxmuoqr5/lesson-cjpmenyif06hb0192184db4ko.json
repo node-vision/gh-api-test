@@ -841,6 +841,28 @@
         "name": "media"
       },
       "title": "ttt"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpmenyif06hb0192184db4ko6",
+      "content": {
+        "media": {
+          "type": "sound",
+          "url": "https://soundcloud.com/monstercat/varien-ghost-spores",
+          "caption": "caption"
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media"
+      },
+      "title": "sound"
     }
   ]
 }
