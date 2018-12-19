@@ -93,6 +93,30 @@
         "name": "media"
       },
       "title": "sound"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpmenyif06hb0192184db4ko4",
+      "content": {
+        "media": {
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545129012/nx2ykq74nsbigudla9wf.png",
+          "imageSize": "fill",
+          "imageAlign": "alignLeft",
+          "caption": "Image caption",
+          "type": "image"
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media"
+      },
+      "title": "Image"
     }
   ]
 }
