@@ -48,7 +48,7 @@
       "slideType": {
         "name": "media"
       },
-      "title": "media"
+      "title": "Lessons title"
     },
     {
       "subtitle": "",
@@ -819,6 +819,28 @@
         "name": "text"
       },
       "title": "tt"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpmenyif06hb0192184db4ko5",
+      "content": {
+        "media": {
+          "type": "video",
+          "url": "https://player.vimeo.com/video/25924530",
+          "caption": "adsfdsf"
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media"
+      },
+      "title": "ttt"
     }
   ]
 }
