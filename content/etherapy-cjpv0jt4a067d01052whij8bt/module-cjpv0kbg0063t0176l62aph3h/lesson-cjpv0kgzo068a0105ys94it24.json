@@ -1,6 +1,6 @@
 {
   "id": "cjpv0kgzo068a0105ys94it24",
-  "title": "New Lesson 1",
+  "title": "New Lessons",
   "module": {
     "id": "cjpv0kbg0063t0176l62aph3h",
     "name": "Module 1",
@@ -24,7 +24,7 @@
       "slideType": {
         "name": "title_slide"
       },
-      "title": "New Lesson"
+      "title": "New Lessons"
     }
   ]
 }
