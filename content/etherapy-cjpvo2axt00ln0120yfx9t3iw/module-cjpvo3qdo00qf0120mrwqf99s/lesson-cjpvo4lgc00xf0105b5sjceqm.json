@@ -1,0 +1,30 @@
+{
+  "id": "cjpvo4lgc00xf0105b5sjceqm",
+  "title": "New Lesson 2",
+  "module": {
+    "id": "cjpvo3qdo00qf0120mrwqf99s",
+    "name": "Module Test",
+    "eTherapy": {
+      "id": "cjpvo2axt00ln0120yfx9t3iw",
+      "name": "Testing Module Name"
+    }
+  },
+  "slides": [
+    {
+      "subtitle": "New Lesson",
+      "isTitleSlide": true,
+      "eLibraryTags": [],
+      "isHidden": null,
+      "settingAddToResources": null,
+      "githubFileName": null,
+      "key": "cjpvo3qdo00qf0120mrwqf99s 4865067474 Title Slide",
+      "content": {},
+      "orderIndex": null,
+      "previewURL": null,
+      "slideType": {
+        "name": "title_slide"
+      },
+      "title": "New Lesson"
+    }
+  ]
+}
