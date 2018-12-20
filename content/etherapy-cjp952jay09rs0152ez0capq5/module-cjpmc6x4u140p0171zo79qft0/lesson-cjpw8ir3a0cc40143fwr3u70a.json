@@ -1,0 +1,52 @@
+{
+  "id": "cjpw8ir3a0cc40143fwr3u70a",
+  "title": "E library title2",
+  "module": {
+    "id": "cjpmc6x4u140p0171zo79qft0",
+    "name": "Module 1",
+    "eTherapy": {
+      "id": "cjp952jay09rs0152ez0capq5",
+      "name": "test2"
+    }
+  },
+  "slides": [
+    {
+      "subtitle": "New Lesson",
+      "isTitleSlide": true,
+      "eLibraryTags": [],
+      "isHidden": null,
+      "settingAddToResources": null,
+      "githubFileName": null,
+      "key": "7494311878 New Lesson",
+      "content": {},
+      "orderIndex": null,
+      "previewURL": null,
+      "slideType": {
+        "name": "title_slide"
+      },
+      "title": "New Lesson"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": null,
+      "githubFileName": null,
+      "key": "899690314 Chicago",
+      "content": {
+        "media": {
+          "type": "video",
+          "url": "https://vimeo.com/52302939",
+          "caption": "Watch this video"
+        }
+      },
+      "orderIndex": null,
+      "previewURL": null,
+      "slideType": {
+        "name": "media"
+      },
+      "title": "Chicago"
+    }
+  ]
+}
