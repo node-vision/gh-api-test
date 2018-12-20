@@ -1,0 +1,63 @@
+{
+  "name": "My Module 1",
+  "settingUnlockInDays": 7,
+  "id": "cjpmc6x4u140p0171zo79qft0",
+  "settingUnlockLater": false,
+  "lessons": [
+    {
+      "isHomeWork": false,
+      "eLibraryTags": [],
+      "key": "cjpmc6x4u140p0171zo79qft0 New Lesson 2",
+      "orderIndex": 0,
+      "title": "New Lesson"
+    },
+    {
+      "isHomeWork": false,
+      "eLibraryTags": [],
+      "key": "cjpmc6x4u140p0171zo79qft0 New Lesson 3",
+      "orderIndex": 1,
+      "title": "New Lesson 3"
+    },
+    {
+      "isHomeWork": false,
+      "eLibraryTags": [],
+      "key": "cjpmc6x4u140p0171zo79qft0 New Lesson 5",
+      "orderIndex": 2,
+      "title": "New gLesson"
+    },
+    {
+      "isHomeWork": false,
+      "eLibraryTags": [],
+      "key": "cjpmc6x4u140p0171zo79qft0 New Lesson 1662749526",
+      "orderIndex": null,
+      "title": "New Lesson53452"
+    },
+    {
+      "isHomeWork": null,
+      "eLibraryTags": [],
+      "key": "cjpmc6x4u140p0171zo79qft0 E library title",
+      "orderIndex": null,
+      "title": "E library title"
+    },
+    {
+      "isHomeWork": null,
+      "eLibraryTags": [],
+      "key": "cjpmc6x4u140p0171zo79qft0 E library title2",
+      "orderIndex": null,
+      "title": "E library title2"
+    },
+    {
+      "isHomeWork": false,
+      "eLibraryTags": [],
+      "key": "cjpmc6x4u140p0171zo79qft0 New Lesson 9041494177",
+      "orderIndex": null,
+      "title": "New Lessonfdghfgh123123123"
+    }
+  ],
+  "orderIndex": 0,
+  "eTherapy": {
+    "id": "cjp952jay09rs0152ez0capq5",
+    "name": "test2"
+  },
+  "hasQuestionnaire": null
+}
