@@ -1157,6 +1157,28 @@
         "name": "media_text"
       },
       "title": "v"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpv0kgzo068a0105ys94it24interactive slide5",
+      "content": {
+        "interactive": {
+          "type": "free_text",
+          "length": "short",
+          "instructions": "instruction"
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_free_text"
+      },
+      "title": "interactive slide"
     }
   ]
 }
