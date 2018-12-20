@@ -531,6 +531,58 @@
         "name": "media"
       },
       "title": "The Cycle of Binge Eating"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7ihh90b430170fp6yjx37The Cycle of Binge Eating7",
+      "content": {
+        "media": {
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545349589/uwzqcoue6dt031q1n5ji.png",
+          "imageSize": "fit",
+          "imageAlign": "alignCenter",
+          "caption": "",
+          "type": "image"
+        },
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "As you can see from the cognitive behaviour therapy (CBT) model of the cycle of binge eating below there are many things that drive the overeating cycle including negative feelings, trying to be good or skip food, hunger, fear of weight gain, and they all feed into each other. Have a close look at the cycle and see if you recognise it.",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media_text"
+      },
+      "title": "The Cycle of Binge Eating"
     }
   ]
 }
