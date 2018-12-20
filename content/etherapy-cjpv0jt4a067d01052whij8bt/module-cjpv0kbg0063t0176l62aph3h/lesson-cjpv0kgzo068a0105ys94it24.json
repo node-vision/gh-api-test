@@ -1193,6 +1193,28 @@
         "name": "interactive_free_text"
       },
       "title": "interactive slide"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpv0kgzo068a0105ys94it24file6",
+      "content": {
+        "media": {},
+        "file": {
+          "description": "File description",
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545293773/asrhhd1vpacbe0yvrb32.svg"
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media_file"
+      },
+      "title": "file"
     }
   ]
 }
