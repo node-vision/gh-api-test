@@ -37,7 +37,13 @@
       "githubFileName": null,
       "key": "cjpv0kgzo068a0105ys94it24mmm1",
       "content": {
-        "media": {}
+        "media": {
+          "url": "https://images.oyster.com/articles/18446-yellowstone.jpg",
+          "imageSize": "fit",
+          "imageAlign": "alignLeft",
+          "caption": "Caption",
+          "type": "image"
+        }
       },
       "orderIndex": null,
       "previewURL": "",
@@ -425,7 +431,11 @@
       "githubFileName": null,
       "key": "cjpv0kgzo068a0105ys94it24fff3",
       "content": {
-        "media": {},
+        "media": {
+          "type": "sound",
+          "url": "https://soundcloud.com/monstercat/varien-ghost-spores",
+          "caption": "Caption"
+        },
         "text": {
           "text": {
             "object": "value",
@@ -796,7 +806,11 @@
       "githubFileName": null,
       "key": "cjpv0kgzo068a0105ys94it24v4",
       "content": {
-        "media": {},
+        "media": {
+          "type": "video",
+          "url": "https://player.vimeo.com/video/25924530",
+          "caption": "Caption"
+        },
         "text": {
           "text": {
             "object": "value",
