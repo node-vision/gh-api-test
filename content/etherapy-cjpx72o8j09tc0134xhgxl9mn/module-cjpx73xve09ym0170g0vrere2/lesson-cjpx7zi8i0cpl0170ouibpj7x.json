@@ -1,6 +1,6 @@
 {
   "id": "cjpx7zi8i0cpl0170ouibpj7x",
-  "title": "New Lesson",
+  "title": "Why do I have an eating disorder?",
   "module": {
     "id": "cjpx73xve09ym0170g0vrere2",
     "name": "Week 1",
@@ -24,7 +24,507 @@
       "slideType": {
         "name": "title_slide"
       },
-      "title": "New Lesson"
+      "title": "Why do I have an eating disorder?"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7zi8i0cpl0170ouibpj7xWhy do I have an eating disorder?1",
+      "content": {
+        "media": {
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545347551/spxlop59tdbujd9dnjdv.png",
+          "imageSize": "fit",
+          "imageAlign": "alignCenter",
+          "caption": "",
+          "type": "image"
+        },
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {
+                    "textAlign": "center"
+                  },
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "You are not alone in thinking about body weight, body shape and body image. In women and men, eating disorders can develop for a number of reasons",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media_text"
+      },
+      "title": "Why do I have an eating disorder?"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7zi8i0cpl0170ouibpj7xWhy do I have an eating disorder? 2",
+      "content": {
+        "media": {
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545347789/psifwedtdwfkoosslnf0.jpg",
+          "imageSize": "fill",
+          "imageAlign": "alignLeft",
+          "caption": "",
+          "type": "image"
+        },
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {
+                    "textAlign": "center"
+                  },
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Biological Factors",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "bulleted-list",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "block",
+                      "type": "list-item",
+                      "data": {
+                        "textAlign": "left"
+                      },
+                      "nodes": [
+                        {
+                          "object": "text",
+                          "leaves": [
+                            {
+                              "object": "leaf",
+                              "text": "Genetics may play a part in the development of eating disorders",
+                              "marks": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "object": "block",
+                      "type": "list-item",
+                      "data": {
+                        "textAlign": "left"
+                      },
+                      "nodes": [
+                        {
+                          "object": "text",
+                          "leaves": [
+                            {
+                              "object": "leaf",
+                              "text": "It has been shown that eating disorders are likely to occur within families. However, it is not known which risk factors exactly are carried in the genes e.g. a predisposition for a certain weight/shape or particular personality traits or coping strategies",
+                              "marks": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "object": "block",
+                      "type": "list-item",
+                      "data": {
+                        "textAlign": "left"
+                      },
+                      "nodes": [
+                        {
+                          "object": "text",
+                          "leaves": [
+                            {
+                              "object": "leaf",
+                              "text": "Also being genetically predisposed to depression may increase one's risk of developing an eating disorder",
+                              "marks": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "object": "block",
+                      "type": "list-item",
+                      "data": {
+                        "textAlign": "left"
+                      },
+                      "nodes": [
+                        {
+                          "object": "text",
+                          "leaves": [
+                            {
+                              "object": "leaf",
+                              "text": "Its important to remember the environment plays an important role in the development of an eating disorder and therefore such factors which may appear to be genetic could be a consequence of having a shared family environment ",
+                              "marks": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "two_text_media"
+      },
+      "title": "Why do I have an eating disorder? "
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7zi8i0cpl0170ouibpj7xWhy do I have an eating disorder?5",
+      "content": {
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {
+                    "textAlign": "center"
+                  },
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Remember, eating disorders are not brought about for one reason in particular, and are often the result of an interaction of many factors. ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "text"
+      },
+      "title": "Why do I have an eating disorder?"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7zi8i0cpl0170ouibpj7xWhy do I have an eating disorder?3",
+      "content": {
+        "media": {},
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {
+                    "textAlign": "center"
+                  },
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Psychological Factors",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "bulleted-list",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "block",
+                      "type": "list-item",
+                      "data": {
+                        "textAlign": "center"
+                      },
+                      "nodes": [
+                        {
+                          "object": "text",
+                          "leaves": [
+                            {
+                              "object": "leaf",
+                              "text": "Particular psychological traits may put an individual at a higher risk of developing an eating disorder.",
+                              "marks": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "object": "block",
+                      "type": "list-item",
+                      "data": {
+                        "textAlign": "center"
+                      },
+                      "nodes": [
+                        {
+                          "object": "text",
+                          "leaves": [
+                            {
+                              "object": "leaf",
+                              "text": "e.g. Individuals who have low self-esteem, difficulties with assertiveness or feelings of ineffectiveness may be at risk of an eating disorder if they begin to use dieting as a way to exert control over their lives.",
+                              "marks": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "object": "block",
+                      "type": "list-item",
+                      "data": {
+                        "textAlign": "center"
+                      },
+                      "nodes": [
+                        {
+                          "object": "text",
+                          "leaves": [
+                            {
+                              "object": "leaf",
+                              "text": "Perfectionism is also common in individuals with eating disorders. Perfectionism often expresses itself in the form of very strict dietary rules and often results in a great deal of stress when these are broken.",
+                              "marks": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "object": "block",
+                      "type": "list-item",
+                      "data": {
+                        "textAlign": "center"
+                      },
+                      "nodes": [
+                        {
+                          "object": "text",
+                          "leaves": [
+                            {
+                              "object": "leaf",
+                              "text": "When food or food restriction is used to cope with intense emotions, this can start the vicious cycle of an eating disorder. Or, dieting and control of food may be used for a person to gain a sense of control over their life when things feel out of control. ",
+                              "marks": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "two_text_media"
+      },
+      "title": "Why do I have an eating disorder?"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7zi8i0cpl0170ouibpj7xWhy do I have an eating disorder?4",
+      "content": {
+        "media": {},
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {
+                    "textAlign": "center"
+                  },
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Social and Cultural Factors",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "bulleted-list",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "block",
+                      "type": "list-item",
+                      "data": {
+                        "textAlign": "left"
+                      },
+                      "nodes": [
+                        {
+                          "object": "text",
+                          "leaves": [
+                            {
+                              "object": "leaf",
+                              "text": "In our global culture, messages and images presented in media such as television, magazines and advertisements appear to be conflicting",
+                              "marks": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "object": "block",
+                      "type": "list-item",
+                      "data": {
+                        "textAlign": "left"
+                      },
+                      "nodes": [
+                        {
+                          "object": "text",
+                          "leaves": [
+                            {
+                              "object": "leaf",
+                              "text": "On one hand, we are swamped with advertisements encouraging us to become consumers of products, to up-size and over consume highly palatable, processed foods",
+                              "marks": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "object": "block",
+                      "type": "list-item",
+                      "data": {
+                        "textAlign": "left"
+                      },
+                      "nodes": [
+                        {
+                          "object": "text",
+                          "leaves": [
+                            {
+                              "object": "leaf",
+                              "text": "And on the other hand, we are surrounded by media which increasingly places value upon one's appearance and body size. The image of a successful and admired woman is one that is young, physically attractive and thin. This is known as the 'thin ideal'. Men are portrayed to be physically attractive and successful if they are athletic and muscular. People who don't meet these gender stereotypes are sometimes portrayed as lazy, unsuccessful, unattractive and at times, unlovable. This is not true.",
+                              "marks": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "object": "block",
+                      "type": "list-item",
+                      "data": {
+                        "textAlign": "left"
+                      },
+                      "nodes": [
+                        {
+                          "object": "text",
+                          "leaves": [
+                            {
+                              "object": "leaf",
+                              "text": "These conflicting messages force us to manage the high expectations of the 'thin ideal' in the face of irresistible advertising of relatively cheap, high calorie foods and can leave one vulnerable to developing disordered eating.",
+                              "marks": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "two_text_media"
+      },
+      "title": "Why do I have an eating disorder?"
     }
   ]
 }
