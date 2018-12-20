@@ -1205,8 +1205,9 @@
       "content": {
         "media": {},
         "file": {
-          "description": "File description",
-          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545293773/asrhhd1vpacbe0yvrb32.svg"
+          "description": "File description2",
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545294195/ov4sejtdo5gcjpfgkw5w.svg",
+          "fileName": "no-theme.svg"
         }
       },
       "orderIndex": null,
