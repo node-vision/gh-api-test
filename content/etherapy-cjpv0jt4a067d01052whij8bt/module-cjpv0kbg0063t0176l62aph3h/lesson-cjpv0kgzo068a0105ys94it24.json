@@ -1203,7 +1203,13 @@
       "githubFileName": null,
       "key": "cjpv0kgzo068a0105ys94it24file6",
       "content": {
-        "media": {},
+        "media": {
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545294721/hyeuomqvzkqixnxodpbo.png",
+          "imageSize": "fill",
+          "imageAlign": "alignLeft",
+          "caption": "",
+          "type": "image"
+        },
         "file": {
           "description": "File description2",
           "url": "https://res.cloudinary.com/inside-out/image/upload/v1545294195/ov4sejtdo5gcjpfgkw5w.svg",
