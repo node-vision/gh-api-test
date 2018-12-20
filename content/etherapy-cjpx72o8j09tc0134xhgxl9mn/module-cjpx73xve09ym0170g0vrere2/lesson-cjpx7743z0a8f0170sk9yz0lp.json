@@ -223,7 +223,11 @@
       "githubFileName": null,
       "key": "cjpx7743z0a8f0170sk9yz0lpWhat is binge eating?1",
       "content": {
-        "media": {}
+        "media": {
+          "type": "video",
+          "url": "https://vimeo.com/138149631",
+          "caption": "An introduction to the program with your eTherapist Claudia."
+        }
       },
       "orderIndex": null,
       "previewURL": "",
