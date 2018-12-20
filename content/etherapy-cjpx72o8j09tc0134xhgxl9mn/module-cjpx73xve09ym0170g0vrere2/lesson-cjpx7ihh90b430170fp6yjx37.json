@@ -1,0 +1,30 @@
+{
+  "id": "cjpx7ihh90b430170fp6yjx37",
+  "title": "New Lesson",
+  "module": {
+    "id": "cjpx73xve09ym0170g0vrere2",
+    "name": "Welcome to the program",
+    "eTherapy": {
+      "id": "cjpx72o8j09tc0134xhgxl9mn",
+      "name": "BEeT"
+    }
+  },
+  "slides": [
+    {
+      "subtitle": "New Lesson",
+      "isTitleSlide": true,
+      "eLibraryTags": [],
+      "isHidden": null,
+      "settingAddToResources": null,
+      "githubFileName": null,
+      "key": "cjpx73xve09ym0170g0vrere2 3532737915 Title Slide",
+      "content": {},
+      "orderIndex": null,
+      "previewURL": null,
+      "slideType": {
+        "name": "title_slide"
+      },
+      "title": "New Lesson"
+    }
+  ]
+}
