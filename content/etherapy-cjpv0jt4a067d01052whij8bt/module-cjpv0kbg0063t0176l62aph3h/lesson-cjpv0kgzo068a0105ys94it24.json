@@ -9,24 +9,5 @@
       "name": "etherapy 222"
     }
   },
-  "slides": [
-    {
-      "subtitle": "dsds",
-      "isTitleSlide": true,
-      "eLibraryTags": [],
-      "isHidden": false,
-      "settingAddToResources": false,
-      "githubFileName": null,
-      "key": "cjpv0kgzo068a0105ys94it24dddsd0",
-      "content": {
-        "media": {}
-      },
-      "orderIndex": null,
-      "previewURL": "",
-      "slideType": {
-        "name": "title_slide"
-      },
-      "title": "dddsd"
-    }
-  ]
+  "slides": []
 }
