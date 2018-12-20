@@ -2,7 +2,7 @@
   "name": "BEeT",
   "settingReminderInactiveInDays": 3,
   "price": null,
-  "isPublished": null,
+  "isPublished": true,
   "settingTimeLimited": false,
   "settingRestartInactiveInDays": 7,
   "id": "cjpx72o8j09tc0134xhgxl9mn",
@@ -14,5 +14,5 @@
     }
   ],
   "settingTimeLimitInDays": 30,
-  "publishedAt": null
+  "publishedAt": "2018-12-20T22:58:26.337Z"
 }
