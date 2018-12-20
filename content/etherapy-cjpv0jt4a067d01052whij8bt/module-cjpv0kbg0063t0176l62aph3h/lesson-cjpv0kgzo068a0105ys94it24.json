@@ -27,6 +27,24 @@
         "name": "title_slide"
       },
       "title": "areaf"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpv0kgzo068a0105ys94it24mmm1",
+      "content": {
+        "media": {}
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media"
+      },
+      "title": "mmm"
     }
   ]
 }
