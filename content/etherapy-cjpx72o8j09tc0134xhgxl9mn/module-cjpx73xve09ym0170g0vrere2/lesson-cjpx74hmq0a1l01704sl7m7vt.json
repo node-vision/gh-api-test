@@ -1,6 +1,6 @@
 {
   "id": "cjpx74hmq0a1l01704sl7m7vt",
-  "title": "New Lesson",
+  "title": "Welcome to the Program",
   "module": {
     "id": "cjpx73xve09ym0170g0vrere2",
     "name": "Welcome to the program",
@@ -11,7 +11,7 @@
   },
   "slides": [
     {
-      "subtitle": "New Lesson",
+      "subtitle": "An introduction to BEeT",
       "isTitleSlide": true,
       "eLibraryTags": [],
       "isHidden": null,
@@ -24,7 +24,128 @@
       "slideType": {
         "name": "title_slide"
       },
-      "title": "New Lesson"
+      "title": "Welcome to the Program"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx74hmq0a1l01704sl7m7vtWelcome to the Program1",
+      "content": {
+        "media": {}
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media"
+      },
+      "title": "Welcome to the Program"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx74hmq0a1l01704sl7m7vtWelcome to the Program2",
+      "content": {
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "In this first session we will cover the following topics:",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "bulleted-list",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "block",
+                      "type": "list-item",
+                      "data": {},
+                      "nodes": [
+                        {
+                          "object": "text",
+                          "leaves": [
+                            {
+                              "object": "leaf",
+                              "text": "The causes of binge eating",
+                              "marks": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "object": "block",
+                      "type": "list-item",
+                      "data": {},
+                      "nodes": [
+                        {
+                          "object": "text",
+                          "leaves": [
+                            {
+                              "object": "leaf",
+                              "text": "How the binge eating cycle works",
+                              "marks": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "object": "block",
+                      "type": "list-item",
+                      "data": {},
+                      "nodes": [
+                        {
+                          "object": "text",
+                          "leaves": [
+                            {
+                              "object": "leaf",
+                              "text": "How to self-monitor",
+                              "marks": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "text"
+      },
+      "title": "Welcome to the Program"
     }
   ]
 }
