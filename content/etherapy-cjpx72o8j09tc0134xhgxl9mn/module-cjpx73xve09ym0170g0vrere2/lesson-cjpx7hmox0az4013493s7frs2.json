@@ -25,6 +25,165 @@
         "name": "title_slide"
       },
       "title": "My Goals"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7hmox0az4013493s7frs2My Goals3",
+      "content": {
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "As you move through the program you will be taught several skills which you can use to work towards your goals. To help you keep track of these skills and set targets for you to use them, we have designed the 'My Goals' Tool. Using the 'My Goals' Tool you can set daily or weekly goals to complete and tick off.",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "For example, if one of your goals is to \"eat more regularly\", you might set a daily goal to eat breakfast, lunch or dinner. ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "As new skills are introduced to you in session we will remind you to consider setting these as goals in your 'My Goals' Tool in the calendar. ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "text"
+      },
+      "title": "My Goals"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7hmox0az4013493s7frs2My Goals2",
+      "content": {
+        "interactive": {
+          "type": "multiple_free_text",
+          "columns": [
+            "Goal",
+            "Scale of progress \n0 - I have not reached this goal at all\n10 - I have reached this goal completely"
+          ]
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_multiple_free_text"
+      },
+      "title": "My Goals"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7hmox0az4013493s7frs2My Goals1",
+      "content": {
+        "interactive": {
+          "type": "free_text",
+          "length": "long",
+          "instructions": "Before you begin the program, try to identify goals which you would like to achieve while completing BEeT.  It's important that you make your goals achieveable. This is particularly important if you are in the habit of setting unrealistic goals and abandoning them when you make the smallest mistake. We can avoid this by making sure that your goals are SMART: Specific, Measurable, Attainable, Relevant, Time-bound.  For example, instead of \"stop binge eating today\", SMART goals would be to \"start by establishing a regular breakfast\", \"begin reintroducing bread in my diet\".  Some of your goals may be related to your eating but not necessarily about your binging behaviours e.g. \"swim at the beach in my swimming costume\".  N.B. Be careful not to set goals that maintain your body image concerns and your eating disorder  should e.g. \"lose 10kg\", \"look better in a bikini\", \"stick to my diet\"."
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_free_text"
+      },
+      "title": "My Goals"
     }
   ]
 }
