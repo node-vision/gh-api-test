@@ -1,6 +1,6 @@
 {
   "id": "cjpx7743z0a8f0170sk9yz0lp",
-  "title": "New Lesson",
+  "title": "What is binge eating? ",
   "module": {
     "id": "cjpx73xve09ym0170g0vrere2",
     "name": "Welcome to the program",
@@ -24,7 +24,213 @@
       "slideType": {
         "name": "title_slide"
       },
-      "title": "New Lesson"
+      "title": "What is binge eating? "
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7743z0a8f0170sk9yz0lpWhat is binge eating?2",
+      "content": {
+        "media": {
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545346366/a9dcotpcmlynwhewql58.jpg",
+          "imageSize": "fill",
+          "imageAlign": "alignLeft",
+          "caption": "",
+          "type": "image"
+        },
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Because there is a lot of mis-information in the media, people can get confused about what a binge really is. ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-three",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "A 'binge' is an episode of overeating.",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "The technical definition states that the amount of food you eat during the binge needs to be more than another person could eat in the same situation, and that while you are eating you feel as if you have lost control. In reality everyone's experience is different.",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Some people don't meet the technical criteria for a binge, they comfort eat - turning to food when they're not hungry to help them deal with stressful situations or feelings. Other people find themselves constantly eating across the day (this is called grazing).",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "The message is:",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "block-quote",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Overeating can take many forms. Just because your pattern of overeating does not sound exactly like a 'binge', does not mean that the skills taught in this package will not help you - in fact, it is likely they will.",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "two_text_media"
+      },
+      "title": "What is binge eating?"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7743z0a8f0170sk9yz0lpWhat is binge eating?1",
+      "content": {
+        "media": {}
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media"
+      },
+      "title": "What is binge eating?"
     }
   ]
 }
