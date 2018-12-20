@@ -94,6 +94,443 @@
         "name": "interactive_multiple_free_text"
       },
       "title": "Overcoming Binge Eating"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7ihh90b430170fp6yjx37Overcoming Binge Eating4",
+      "content": {
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Events, situations or emotions can trigger binge eating. You may find it difficult to identify these at first however we know from experience that there will always be a trigger. Throughout the program we will help you to identify your triggers and work upon better controlling them. ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "We can generally categorise triggers into four main groups:",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "1. Biological Triggers",
+                          "marks": [
+                            {
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#6AC8C8"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "object": "leaf",
+                          "text": " e.g. dieting, restricting food intake",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "2. Food & Eating Triggers ",
+                          "marks": [
+                            {
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#4598CB"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "object": "leaf",
+                          "text": "e.g. feeling full, breaking a food rule",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "3. Body Image Triggers ",
+                          "marks": [
+                            {
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#F5A81E"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "object": "leaf",
+                          "text": "e.g. gaining weight, feeling fat, wearing tight clothes",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "4. Mood/Emotional Triggers ",
+                          "marks": [
+                            {
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#714B9F"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "object": "leaf",
+                          "text": "e.g. feeling angry, sad, anxious or lonely",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "We will learn more about these in future sessions. ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "text"
+      },
+      "title": "Overcoming Binge Eating"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7ihh90b430170fp6yjx37The Cycle of Binge Eating5",
+      "content": {
+        "media": {},
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Binge eating can take many shapes and forms. Generally, however, the foods eaten during a binge are those that the person is trying to avoid, otherwise known as \"forbidden foods\". ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Once you start to overeat it can often be very difficult to stop, leaving you feeling hopeless and out of control. You might feel so compelled and driven to eat that you begin to act in ways that you see as different to who you are and how you behave normally.",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Binge eating and overeating can bring about feelings of shame and embarrassment, meaning that it becomes something you try to do in secret. For example, eating in your bedroom or waiting until you are home alone. Having no one else know about your binges can make it even more difficult to stop. ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "two_text_media"
+      },
+      "title": "The Cycle of Binge Eating"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7ihh90b430170fp6yjx37The Cycle of Binge Eating6",
+      "content": {
+        "media": {
+          "type": "video",
+          "url": "https://vimeo.com/137098639",
+          "caption": "Claudia explains the vicious cycle of binge eating and how it is maintained."
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media"
+      },
+      "title": "The Cycle of Binge Eating"
     }
   ]
 }
