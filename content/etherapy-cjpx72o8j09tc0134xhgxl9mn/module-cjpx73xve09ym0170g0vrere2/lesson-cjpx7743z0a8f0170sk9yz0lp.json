@@ -484,6 +484,28 @@
         "name": "text"
       },
       "title": "How common is binge eating?"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7743z0a8f0170sk9yz0lpBinge Eating4",
+      "content": {
+        "media": {
+          "type": "video",
+          "url": "https://vimeo.com/121096975",
+          "caption": ""
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media"
+      },
+      "title": "Binge Eating"
     }
   ]
 }
