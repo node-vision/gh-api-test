@@ -69,6 +69,31 @@
         "name": "media"
       },
       "title": "Overcoming Binge Eating"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7ihh90b430170fp6yjx37Overcoming Binge Eating3",
+      "content": {
+        "interactive": {
+          "type": "multiple_free_text",
+          "columns": [
+            "1. Before a binge\n\nDid something happen to upset you? Were you feeling overwhelmed by emotion?",
+            "2. During a binge\n\nDid you feel as though you had lost all control?",
+            "3. After a binge\n\nWere you feeling ashamed or embarassed? Did you do something to make up for the binge?"
+          ]
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_multiple_free_text"
+      },
+      "title": "Overcoming Binge Eating"
     }
   ]
 }
