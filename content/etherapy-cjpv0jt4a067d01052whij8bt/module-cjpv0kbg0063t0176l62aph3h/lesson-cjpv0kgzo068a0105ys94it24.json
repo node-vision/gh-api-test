@@ -1,6 +1,6 @@
 {
   "id": "cjpv0kgzo068a0105ys94it24",
-  "title": "areafs",
+  "title": "Title slide.",
   "module": {
     "id": "cjpv0kbg0063t0176l62aph3h",
     "name": "Module 1",
@@ -11,7 +11,7 @@
   },
   "slides": [
     {
-      "subtitle": "subtitle",
+      "subtitle": "Welcome",
       "isTitleSlide": true,
       "eLibraryTags": [],
       "isHidden": false,
@@ -26,7 +26,7 @@
       "slideType": {
         "name": "title_slide"
       },
-      "title": "areafs"
+      "title": "Title slide."
     },
     {
       "subtitle": "",
