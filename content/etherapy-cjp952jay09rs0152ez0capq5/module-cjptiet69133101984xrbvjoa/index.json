@@ -1,0 +1,49 @@
+{
+  "name": "Module 2",
+  "settingUnlockInDays": 5,
+  "id": "cjptiet69133101984xrbvjoa",
+  "settingUnlockLater": true,
+  "lessons": [
+    {
+      "isHomeWork": false,
+      "eLibraryTags": [],
+      "key": "cjptiet69133101984xrbvjoa New Lesson 1",
+      "orderIndex": 1,
+      "title": "New"
+    },
+    {
+      "isHomeWork": false,
+      "eLibraryTags": [],
+      "key": "cjptiet69133101984xrbvjoa New Lesson 2",
+      "orderIndex": 0,
+      "title": "New Lesson 2"
+    },
+    {
+      "isHomeWork": null,
+      "eLibraryTags": [],
+      "key": "cjptiet69133101984xrbvjoa Etherapy Group Slide",
+      "orderIndex": 2,
+      "title": "Etherapy Group Slide"
+    },
+    {
+      "isHomeWork": null,
+      "eLibraryTags": [],
+      "key": "cjptiet69133101984xrbvjoa rrr",
+      "orderIndex": 3,
+      "title": "areafs"
+    },
+    {
+      "isHomeWork": null,
+      "eLibraryTags": [],
+      "key": "cjptiet69133101984xrbvjoa rtrr",
+      "orderIndex": 4,
+      "title": "rtrr"
+    }
+  ],
+  "orderIndex": 1,
+  "eTherapy": {
+    "id": "cjp952jay09rs0152ez0capq5",
+    "name": "test2"
+  },
+  "hasQuestionnaire": null
+}
