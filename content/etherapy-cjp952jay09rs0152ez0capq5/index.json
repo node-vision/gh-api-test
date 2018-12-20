@@ -1,0 +1,23 @@
+{
+  "name": "test2",
+  "settingReminderInactiveInDays": 5,
+  "price": null,
+  "isPublished": true,
+  "settingTimeLimited": true,
+  "settingRestartInactiveInDays": 32,
+  "id": "cjp952jay09rs0152ez0capq5",
+  "modules": [
+    {
+      "id": "cjpmc6x4u140p0171zo79qft0",
+      "name": "Module 1",
+      "key": "cjp952jay09rs0152ez0capq5Module 1"
+    },
+    {
+      "id": "cjptiet69133101984xrbvjoa",
+      "name": "Module 2",
+      "key": "cjp952jay09rs0152ez0capq5Module 2"
+    }
+  ],
+  "settingTimeLimitInDays": 60,
+  "publishedAt": null
+}
