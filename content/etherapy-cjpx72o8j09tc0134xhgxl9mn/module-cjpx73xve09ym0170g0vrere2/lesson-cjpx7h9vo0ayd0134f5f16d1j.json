@@ -54,7 +54,7 @@
       "key": "cjpx7h9vo0ayd0134f5f16d1jCognitive Behaviour Therapy1",
       "content": {
         "media": {
-          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545366533/yltgnpwlzvn4j4otfqrf.png",
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545366854/jgwg0sghktixanwwclqm.png",
           "imageSize": "fit",
           "imageAlign": "alignCenter",
           "caption": "",
@@ -203,11 +203,11 @@
           },
           "rightColumn": {
             "list": [
-              "Puts off starting the program to think over whether it’s going to work.",
-              "Completes Session 1 as soon as possible!",
-              "Might start Session 1 but loses motivation half way and stops."
+              "Put off starting the program to think over whether it’s going to work",
+              "Complete Session 1 as soon as possible",
+              "Might start Session 1 but lose motivation half way and stop."
             ],
-            "title": "Behaviour"
+            "title": "Behaviours"
           },
           "instructions": "Let’s take a situation you've been in recently, a good example is the process of deciding to do this program.\n\nIn the exercise below we want you to try to think about the types of feelings that you or others may have experienced in anticipation of joining the BEeT program. Imagine if you were feeling anxious and worried or excited and motivated or both, what if you felt sad and low? How would that effect the thoughts you were having about signing up? And how would that effect the way you acted?\n\nTry and match up what thoughts and behaviours would be brought about by each feeling:\n\nCan you see how your feelings can prompt certain thoughts and how these thoughts might actually completely determine what you do?\n\nNotice that the situation has remained the same despite the differences in emotions, thoughts and behaviours. We often think think that it’s the situation itself that makes us feel something or do something, but often it can be the interpretation  the situation (i.e. our thoughts about the situation) which effects how we feel and behave."
         }
@@ -229,9 +229,9 @@
       "key": "cjpx7h9vo0ayd0134f5f16d1jCognitive Behaviour Therapy5",
       "content": {
         "media": {
-          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545348821/fpymoevfsec1awkthpkg.png",
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545366824/ee1vjguz9dfdnu5omzrg.png",
           "imageSize": "fit",
-          "imageAlign": "alignLeft",
+          "imageAlign": "alignCenter",
           "caption": "",
           "type": "image"
         },
@@ -286,7 +286,79 @@
                       "leaves": [
                         {
                           "object": "leaf",
-                          "text": "See how it’s the interpretation of the situation (i.e. the negative thoughts about your body size) which brings about certain feelings (i.e. disgust and shame) that then lead you to act in a way which support your thoughts (i.e. restrict food intake in order to lose weight and improve others’ opinions of you end up overeating).",
+                          "text": "See how it’s the interpretation of the ",
+                          "marks": []
+                        },
+                        {
+                          "object": "leaf",
+                          "text": "situation",
+                          "marks": [
+                            {
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#F26C22"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "object": "leaf",
+                          "text": " (i.e. the negative thoughts about your body size) which brings about certain ",
+                          "marks": []
+                        },
+                        {
+                          "object": "leaf",
+                          "text": "feelings",
+                          "marks": [
+                            {
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#6AC8C8"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "object": "leaf",
+                          "text": " (i.e. disgust and shame) that then lead you to ",
+                          "marks": []
+                        },
+                        {
+                          "object": "leaf",
+                          "text": "behave",
+                          "marks": [
+                            {
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#714B9F"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "object": "leaf",
+                          "text": " in a way which support your ",
+                          "marks": []
+                        },
+                        {
+                          "object": "leaf",
+                          "text": "thoughts",
+                          "marks": [
+                            {
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#4598CB"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "object": "leaf",
+                          "text": " (i.e. restrict food intake in order to lose weight and improve others’ opinions of you end up overeating).",
                           "marks": []
                         }
                       ]
