@@ -25,6 +25,28 @@
         "name": "title_slide"
       },
       "title": "Self Monitoring"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7i0fo0b1f017002tumtr3My relationship with food1",
+      "content": {
+        "media": {
+          "type": "video",
+          "url": "https://vimeo.com/119076536",
+          "caption": "How you think about food and your body effects your mood, mental health and quality of life."
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media"
+      },
+      "title": "My relationship with food"
     }
   ]
 }
