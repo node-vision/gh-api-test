@@ -19,7 +19,7 @@
       "githubFileName": null,
       "key": "cjpmc6x4u140p0171zo79qft0 5752344184 Title Slide",
       "content": {},
-      "orderIndex": null,
+      "orderIndex": 0,
       "previewURL": null,
       "slideType": {
         "name": "title_slide"
@@ -398,7 +398,7 @@
           }
         }
       },
-      "orderIndex": null,
+      "orderIndex": 2,
       "previewURL": "",
       "slideType": {
         "name": "two_text_file_media_link"
@@ -768,7 +768,7 @@
           }
         }
       },
-      "orderIndex": null,
+      "orderIndex": 3,
       "previewURL": "",
       "slideType": {
         "name": "text"
@@ -1143,7 +1143,7 @@
           }
         }
       },
-      "orderIndex": null,
+      "orderIndex": 4,
       "previewURL": "",
       "slideType": {
         "name": "media_text_link"
@@ -1569,7 +1569,7 @@
           }
         }
       },
-      "orderIndex": null,
+      "orderIndex": 1,
       "previewURL": "",
       "slideType": {
         "name": "media_text_link"
