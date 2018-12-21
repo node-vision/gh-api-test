@@ -605,6 +605,147 @@
         "name": "text"
       },
       "title": "Self Monitoring"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7i0fo0b1f017002tumtr3Take home messages7",
+      "content": {
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Binge eating can be caused by restricting your food intake and/or as a way of dealing with difficult or negative emotions.",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Many of the symptoms you are experiencing are directly caused by starvation or restricting food intake at times across the day. Self monitoring is a useful tool that will help to understand your eating patterns, so you can stop the binge eating cycle. ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "REAL change takes time and awareness. This is essential for the rest of the program to work.",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "text"
+      },
+      "title": "Take home messages"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7i0fo0b1f017002tumtr3To Do8",
+      "content": {
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Congratulations on having begun your treatment!",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "There are some activities to complete before beginning the next session. Open your homework to start completing these. ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "text"
+      },
+      "title": "To Do"
     }
   ]
 }
