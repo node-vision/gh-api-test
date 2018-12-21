@@ -11,7 +11,7 @@
   },
   "slides": [
     {
-      "subtitle": "New Lesson",
+      "subtitle": "",
       "isTitleSlide": true,
       "eLibraryTags": [],
       "isHidden": null,
@@ -36,7 +36,7 @@
       "key": "cjpx7zi8i0cpl0170ouibpj7xWhy do I have an eating disorder?1",
       "content": {
         "media": {
-          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545347551/spxlop59tdbujd9dnjdv.png",
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545367457/hmoz6fkhz1crnyh5hiyd.png",
           "imageSize": "fit",
           "imageAlign": "alignCenter",
           "caption": "",
@@ -90,9 +90,9 @@
       "key": "cjpx7zi8i0cpl0170ouibpj7xWhy do I have an eating disorder? 2",
       "content": {
         "media": {
-          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545347789/psifwedtdwfkoosslnf0.jpg",
-          "imageSize": "fill",
-          "imageAlign": "alignLeft",
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545367609/pakwkhrwtpwzstc4yp49.png",
+          "imageSize": "fit",
+          "imageAlign": "alignCenter",
           "caption": "",
           "type": "image"
         },
@@ -116,6 +116,33 @@
                         {
                           "object": "leaf",
                           "text": "Biological Factors",
+                          "marks": [
+                            {
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#F05B5E"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "list-item",
+                  "data": {
+                    "textAlign": "left"
+                  },
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Genetics may play a part in the development of eating disorders",
                           "marks": []
                         }
                       ]
@@ -127,25 +154,6 @@
                   "type": "bulleted-list",
                   "data": {},
                   "nodes": [
-                    {
-                      "object": "block",
-                      "type": "list-item",
-                      "data": {
-                        "textAlign": "left"
-                      },
-                      "nodes": [
-                        {
-                          "object": "text",
-                          "leaves": [
-                            {
-                              "object": "leaf",
-                              "text": "Genetics may play a part in the development of eating disorders",
-                              "marks": []
-                            }
-                          ]
-                        }
-                      ]
-                    },
                     {
                       "object": "block",
                       "type": "list-item",
@@ -273,7 +281,13 @@
       "githubFileName": null,
       "key": "cjpx7zi8i0cpl0170ouibpj7xWhy do I have an eating disorder?3",
       "content": {
-        "media": {},
+        "media": {
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545367591/z11rnjdqyxpa4uifesgr.png",
+          "imageSize": "fit",
+          "imageAlign": "alignCenter",
+          "caption": "",
+          "type": "image"
+        },
         "text": {
           "text": {
             "object": "value",
@@ -294,7 +308,15 @@
                         {
                           "object": "leaf",
                           "text": "Psychological Factors",
-                          "marks": []
+                          "marks": [
+                            {
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#4598CB"
+                              }
+                            }
+                          ]
                         }
                       ]
                     }
@@ -404,7 +426,13 @@
       "githubFileName": null,
       "key": "cjpx7zi8i0cpl0170ouibpj7xWhy do I have an eating disorder?4",
       "content": {
-        "media": {},
+        "media": {
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545367625/dkfzrbgkzvdlkuxa6bit.png",
+          "imageSize": "fit",
+          "imageAlign": "alignCenter",
+          "caption": "",
+          "type": "image"
+        },
         "text": {
           "text": {
             "object": "value",
@@ -425,7 +453,15 @@
                         {
                           "object": "leaf",
                           "text": "Social and Cultural Factors",
-                          "marks": []
+                          "marks": [
+                            {
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#F5A81E"
+                              }
+                            }
+                          ]
                         }
                       ]
                     }
