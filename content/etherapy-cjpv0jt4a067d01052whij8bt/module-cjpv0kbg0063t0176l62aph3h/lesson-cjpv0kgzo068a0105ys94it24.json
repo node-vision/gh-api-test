@@ -6471,6 +6471,45 @@
         "name": "two_text_link_media"
       },
       "title": "sdfd"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpv0kgzo068a0105ys94it24sddd14",
+      "content": {
+        "interactive": {
+          "type": "multiple_answers",
+          "answers": [
+            {
+              "title": "answer1",
+              "checked": true
+            },
+            {
+              "title": "answer2",
+              "checked": false
+            },
+            {
+              "title": "answer3",
+              "checked": false
+            },
+            {
+              "title": "answer4",
+              "checked": true
+            }
+          ],
+          "instructions": "question"
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_multiple_answers"
+      },
+      "title": "sddd"
     }
   ]
 }
