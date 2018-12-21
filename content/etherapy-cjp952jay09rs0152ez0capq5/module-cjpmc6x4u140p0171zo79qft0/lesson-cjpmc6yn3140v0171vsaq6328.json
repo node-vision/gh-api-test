@@ -1137,23 +1137,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "object": "block",
-                  "type": "heading-three",
-                  "data": {},
-                  "nodes": [
-                    {
-                      "object": "text",
-                      "leaves": [
-                        {
-                          "object": "leaf",
-                          "text": "",
-                          "marks": []
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
             }
