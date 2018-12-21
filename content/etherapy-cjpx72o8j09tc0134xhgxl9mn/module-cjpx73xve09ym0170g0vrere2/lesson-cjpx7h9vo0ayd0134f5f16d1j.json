@@ -405,9 +405,9 @@
       "key": "cjpx7h9vo0ayd0134f5f16d1jCognitive Behaviour Therapy6",
       "content": {
         "media": {
-          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545348881/aegmvwtjjxorurwepnpi.png",
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545367218/dibjxt1dkjmgoo1aidap.png",
           "imageSize": "fit",
-          "imageAlign": "alignLeft",
+          "imageAlign": "alignCenter",
           "caption": "",
           "type": "image"
         },
@@ -454,55 +454,72 @@
                 },
                 {
                   "object": "block",
-                  "type": "numbered-list",
+                  "type": "heading-three",
                   "data": {},
                   "nodes": [
                     {
-                      "object": "block",
-                      "type": "list-item",
-                      "data": {},
-                      "nodes": [
+                      "object": "text",
+                      "leaves": [
                         {
-                          "object": "text",
-                          "leaves": [
+                          "object": "leaf",
+                          "text": "Change the way we act (behaviours)",
+                          "marks": [
                             {
-                              "object": "leaf",
-                              "text": "Change the way we act (behaviours)",
-                              "marks": []
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#714B9F"
+                              }
                             }
                           ]
                         }
                       ]
-                    },
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-three",
+                  "data": {},
+                  "nodes": [
                     {
-                      "object": "block",
-                      "type": "list-item",
-                      "data": {},
-                      "nodes": [
+                      "object": "text",
+                      "leaves": [
                         {
-                          "object": "text",
-                          "leaves": [
+                          "object": "leaf",
+                          "text": "Better manage our emotions (feelings)",
+                          "marks": [
                             {
-                              "object": "leaf",
-                              "text": "Better manage our emotions (feelings)",
-                              "marks": []
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#6AC8C8"
+                              }
                             }
                           ]
                         }
                       ]
-                    },
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-three",
+                  "data": {},
+                  "nodes": [
                     {
-                      "object": "block",
-                      "type": "list-item",
-                      "data": {},
-                      "nodes": [
+                      "object": "text",
+                      "leaves": [
                         {
-                          "object": "text",
-                          "leaves": [
+                          "object": "leaf",
+                          "text": "Challenge our interpretations (thoughts)",
+                          "marks": [
                             {
-                              "object": "leaf",
-                              "text": "Challenge our interpretations (thoughts)",
-                              "marks": []
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#4598CB"
+                              }
                             }
                           ]
                         }
@@ -521,7 +538,15 @@
                         {
                           "object": "leaf",
                           "text": "",
-                          "marks": []
+                          "marks": [
+                            {
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#4598CB"
+                              }
+                            }
+                          ]
                         }
                       ]
                     }
