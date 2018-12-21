@@ -47,6 +47,564 @@
         "name": "media"
       },
       "title": "My relationship with food"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7i0fo0b1f017002tumtr3Self Monitoring5",
+      "content": {
+        "media": {
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545353167/ou04z3561pc85iyhxt27.jpg",
+          "imageSize": "fill",
+          "imageAlign": "alignLeft",
+          "caption": "",
+          "type": "image"
+        },
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Doing this course well and getting the best results means you will have to set aside some time to record in the diary each day, and schedule a time for the next session.",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "When are you are going to record your meals in the diary? Directly after each meal? Or after dinner each day?",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "We find that it helps people to stay on track if they establish a plan for their weekly session. Can you think of a regular time each week that you can step away from the things you are doing, in a quiet space to do each session of this program? Where and when will that be?",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "two_text_media"
+      },
+      "title": "Self Monitoring"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7i0fo0b1f017002tumtr3Self Monitoring3",
+      "content": {
+        "media": {
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545353088/o61uidt1bbtenzxxysqn.png",
+          "imageSize": "fit",
+          "imageAlign": "alignLeft",
+          "caption": "Have a look through the food record page, this is what it will look like in your 'Self Monitoring' tool. You can see there is extra information for each of the fields, if you need help just click on the (i).",
+          "type": "image"
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media"
+      },
+      "title": "Self Monitoring"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7i0fo0b1f017002tumtr3Self Monitoring2",
+      "content": {
+        "media": {
+          "url": "https://res.cloudinary.com/inside-out/image/upload/v1545353053/n921j9wdi9ixgteoi0gd.png",
+          "imageSize": "fit",
+          "imageAlign": "alignLeft",
+          "caption": "",
+          "type": "image"
+        },
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Above is a sample self monitoring entry that looks exactly the same as your weekly summary. Scroll along and look closely at each of the comments.",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "media_text"
+      },
+      "title": "Self Monitoring"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7i0fo0b1f017002tumtr3How and when to start self monitoring?4",
+      "content": {
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Self monitoring is the first step to gaining control over your eating. ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "It will make you more aware of the structure of your eating patterns and help you to identify triggers for binging and overeating. It also brings attention to your behaviours in the moment, so you'll be able to notice the sequence of events in your cycle, which may until now  have appeared to be a single event or a bit of a blur in your mind. ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Sometimes when a person begins montiroing their food it brings awareness to all the things they are unhappy about in terms of their eating, all the problems areas, and all the things they want to change.  This can be overwhelming and make you feel like you want to avoid it.",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "We can't change anything without having a good look at it. So we will work slowly with you each session to gradually get a picture through monitoring of what is currently going in with your eating and help you to change the things you want to change.",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": " ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": " ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "text"
+      },
+      "title": "How and when to start self monitoring?"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpx7i0fo0b1f017002tumtr3Self Monitoring6",
+      "content": {
+        "text": {
+          "text": {
+            "object": "value",
+            "document": {
+              "object": "document",
+              "data": {},
+              "nodes": [
+                {
+                  "object": "block",
+                  "type": "heading-two",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "Were you wondering about weighing? ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "It is common for people who overeat to be preoccupied by their weight and find themselves on the scales numerous times throught the day or week. Or on the other hand to totally avoid it. This program will not directly address weighing or weight (although the strategies we teach definitely help with weight management) because we believe this is better handled face-to-face by an appropriately qualified health professional, expert in treating these types of concerns. If you would like some guidance around weighing and weight management, the help of a health practitioner would be advisable. You can find a list of health practitioners in NSW trained in the guided delivery of Binge Eating eTherapy by clicking on the following link  <INSERT LINK>.",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "text"
+      },
+      "title": "Self Monitoring"
     }
   ]
 }
