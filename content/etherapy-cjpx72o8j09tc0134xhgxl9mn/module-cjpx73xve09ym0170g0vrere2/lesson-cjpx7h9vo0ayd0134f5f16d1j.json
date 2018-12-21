@@ -77,7 +77,59 @@
                       "leaves": [
                         {
                           "object": "leaf",
-                          "text": "The treatment we use in this program is called Cognitive Behavioural Therapy, commonly known as CBT, it is a very popular psychological and behavioural therpay used to treat lots of different issues. Let learn about about it:",
+                          "text": "The treatment we use in this program is called ",
+                          "marks": []
+                        },
+                        {
+                          "object": "leaf",
+                          "text": "Cognitive Behavioural Therapy",
+                          "marks": [
+                            {
+                              "object": "mark",
+                              "type": "colored",
+                              "data": {
+                                "color": "#F05B5E"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "object": "leaf",
+                          "text": ", commonly known as CBT, it is a very popular psychological and behavioural therapy used to treat lots of different issues. ",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "paragraph",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "object": "block",
+                  "type": "heading-three",
+                  "data": {},
+                  "nodes": [
+                    {
+                      "object": "text",
+                      "leaves": [
+                        {
+                          "object": "leaf",
+                          "text": "CBT proposes that feelings, thoughts and behaviours influence each other in a cycle. CBT aims to help the person gain understanding of how their thoughts, feeling and behaviours work inside of them, how they are linked, and how a person might get stuck in a vicious cycle.  Ultimately the aim is to understand why it is that we behave and think the way that we do so that we can change it if its not helping us.",
                           "marks": []
                         }
                       ]
@@ -111,41 +163,7 @@
                       "leaves": [
                         {
                           "object": "leaf",
-                          "text": "CBT proposes that feelings, thoughts and behaviours influence each other in a cycle, just as in the picture below. CBT aims to help the person gain understanding of how their thoughts, feeling and behviours work inside of them, how they are linked, and how a person might get stuck in a vicious cycle.  Ultimately the aim is to understand why it is that we behave and think the way that we do so that we can change it if its not helping us.",
-                          "marks": []
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "object": "block",
-                  "type": "paragraph",
-                  "data": {},
-                  "nodes": [
-                    {
-                      "object": "text",
-                      "leaves": [
-                        {
-                          "object": "leaf",
-                          "text": "",
-                          "marks": []
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "object": "block",
-                  "type": "paragraph",
-                  "data": {},
-                  "nodes": [
-                    {
-                      "object": "text",
-                      "leaves": [
-                        {
-                          "object": "leaf",
-                          "text": "Lets try a CBT exercise on the next page",
+                          "text": "Lets try a CBT exercise on the next page.",
                           "marks": []
                         }
                       ]
