@@ -1,6 +1,6 @@
 {
   "id": "cjpxksm0j01fc0167u3w3oos4",
-  "title": "New Lesson 1",
+  "title": "New Lesson",
   "module": {
     "id": "cjpxkse6501eo016732nkcnjn",
     "name": "t",
@@ -14,7 +14,7 @@
       "subtitle": "New Lesson",
       "isTitleSlide": true,
       "eLibraryTags": [],
-      "isHidden": null,
+      "isHidden": true,
       "settingAddToResources": null,
       "githubFileName": null,
       "key": "cjpxkse6501eo016732nkcnjn 4241391263 Title Slide",
@@ -25,6 +25,45 @@
         "name": "title_slide"
       },
       "title": "New Lesson"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpxksm0j01fc0167u3w3oos4tt1",
+      "content": {
+        "interactive": {
+          "type": "multiple_answers",
+          "answers": [
+            {
+              "title": "answer1",
+              "checked": true
+            },
+            {
+              "title": "answer2",
+              "checked": false
+            },
+            {
+              "title": "answer3",
+              "checked": false
+            },
+            {
+              "title": "answer4",
+              "checked": true
+            }
+          ],
+          "instructions": "rrrr"
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_multiple_answers"
+      },
+      "title": "tt"
     }
   ]
 }
