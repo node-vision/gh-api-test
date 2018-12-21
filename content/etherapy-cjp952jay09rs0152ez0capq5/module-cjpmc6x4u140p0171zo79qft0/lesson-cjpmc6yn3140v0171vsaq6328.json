@@ -1154,40 +1154,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "object": "block",
-                  "type": "heading-three",
-                  "data": {},
-                  "nodes": [
-                    {
-                      "object": "text",
-                      "leaves": [
-                        {
-                          "object": "leaf",
-                          "text": "",
-                          "marks": []
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "object": "block",
-                  "type": "heading-three",
-                  "data": {},
-                  "nodes": [
-                    {
-                      "object": "text",
-                      "leaves": [
-                        {
-                          "object": "leaf",
-                          "text": "jhklhjkl",
-                          "marks": []
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
             }
