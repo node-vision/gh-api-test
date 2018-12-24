@@ -1610,6 +1610,28 @@
         "name": "interactive_multiple_answers"
       },
       "title": "ma"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpmc6yn3140v0171vsaq6328ft6",
+      "content": {
+        "interactive": {
+          "type": "free_text",
+          "instructions": "hsfthf",
+          "length": "short"
+        }
+      },
+      "orderIndex": 6,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_free_text"
+      },
+      "title": "ft"
     }
   ]
 }
