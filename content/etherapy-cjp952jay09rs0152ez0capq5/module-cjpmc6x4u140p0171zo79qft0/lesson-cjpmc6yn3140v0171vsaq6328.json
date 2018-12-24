@@ -1632,6 +1632,31 @@
         "name": "interactive_free_text"
       },
       "title": "ft"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpmc6yn3140v0171vsaq6328mft7",
+      "content": {
+        "interactive": {
+          "type": "multiple_free_text",
+          "columns": [
+            "herth",
+            "qgreqwrgtewg2",
+            "hfgherht3"
+          ]
+        }
+      },
+      "orderIndex": 7,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_multiple_free_text"
+      },
+      "title": "mft"
     }
   ]
 }
