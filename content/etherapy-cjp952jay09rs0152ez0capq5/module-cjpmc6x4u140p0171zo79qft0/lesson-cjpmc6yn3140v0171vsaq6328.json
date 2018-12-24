@@ -1161,8 +1161,8 @@
       "content": {
         "media": {},
         "link": {
-          "name": "",
-          "url": ""
+          "name": "link",
+          "url": "url"
         },
         "text": {
           "text": {
