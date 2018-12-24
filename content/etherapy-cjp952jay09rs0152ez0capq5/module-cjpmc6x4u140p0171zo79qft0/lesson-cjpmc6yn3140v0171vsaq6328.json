@@ -1575,6 +1575,41 @@
         "name": "media_text_link"
       },
       "title": "5467u"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpmc6yn3140v0171vsaq6328ma5",
+      "content": {
+        "interactive": {
+          "type": "multiple_answers",
+          "answers": [
+            {
+              "title": "gthjydfghj",
+              "checked": true
+            },
+            {
+              "title": "dfghdfgh",
+              "checked": false
+            },
+            {
+              "title": "jydryjdrtj",
+              "checked": true
+            }
+          ],
+          "instructions": "igdhydfh"
+        }
+      },
+      "orderIndex": 5,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_multiple_answers"
+      },
+      "title": "ma"
     }
   ]
 }
