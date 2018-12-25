@@ -21,7 +21,7 @@
       "content": {
         "media": {}
       },
-      "orderIndex": null,
+      "orderIndex": 0,
       "previewURL": null,
       "slideType": {
         "name": "title_slide"
@@ -391,12 +391,51 @@
           }
         }
       },
-      "orderIndex": null,
+      "orderIndex": 1,
       "previewURL": null,
       "slideType": {
         "name": "text"
       },
       "title": "ttteext"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpxtbau001hf0131n0q0eth0matching2",
+      "content": {
+        "interactive": {
+          "type": "matching",
+          "leftColumn": {
+            "list": [
+              "choice 1",
+              "choice 2",
+              "choice 3",
+              "choice 4"
+            ],
+            "title": "choice"
+          },
+          "rightColumn": {
+            "list": [
+              "match 1",
+              "match 2",
+              "match 3",
+              "match 4"
+            ],
+            "title": "match"
+          },
+          "instructions": "daswqfdsf"
+        }
+      },
+      "orderIndex": 2,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_matching"
+      },
+      "title": "matching"
     }
   ]
 }
