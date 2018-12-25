@@ -19,7 +19,7 @@
       "githubFileName": null,
       "key": "cjpxkse6501eo016732nkcnjn 4241391263 Title Slide",
       "content": {},
-      "orderIndex": null,
+      "orderIndex": 0,
       "previewURL": null,
       "slideType": {
         "name": "title_slide"
@@ -58,7 +58,7 @@
           "instructions": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore."
         }
       },
-      "orderIndex": null,
+      "orderIndex": 1,
       "previewURL": "",
       "slideType": {
         "name": "interactive_multiple_answers"
@@ -80,7 +80,7 @@
           "instructions": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore."
         }
       },
-      "orderIndex": null,
+      "orderIndex": 2,
       "previewURL": "",
       "slideType": {
         "name": "interactive_free_text"
@@ -131,10 +131,11 @@
                 "title": "item8"
               }
             ]
-          }
+          },
+          "instructions": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore."
         }
       },
-      "orderIndex": null,
+      "orderIndex": 3,
       "previewURL": "",
       "slideType": {
         "name": "interactive_categories"
