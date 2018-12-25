@@ -33,67 +33,6 @@
       "isHidden": false,
       "settingAddToResources": false,
       "githubFileName": null,
-      "key": "cjpxksm0j01fc0167u3w3oos4tt1",
-      "content": {
-        "interactive": {
-          "type": "multiple_answers",
-          "answers": [
-            {
-              "title": "answer1",
-              "checked": true
-            },
-            {
-              "title": "answer2",
-              "checked": false
-            },
-            {
-              "title": "answer3",
-              "checked": false
-            },
-            {
-              "title": "answer4",
-              "checked": true
-            }
-          ],
-          "instructions": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore."
-        }
-      },
-      "orderIndex": 1,
-      "previewURL": "",
-      "slideType": {
-        "name": "interactive_multiple_answers"
-      },
-      "title": "What are eating disorder symptoms?"
-    },
-    {
-      "subtitle": "",
-      "isTitleSlide": false,
-      "eLibraryTags": [],
-      "isHidden": false,
-      "settingAddToResources": false,
-      "githubFileName": null,
-      "key": "cjpxksm0j01fc0167u3w3oos4Do You Think Motivational Thoughts?2",
-      "content": {
-        "interactive": {
-          "type": "free_text",
-          "length": "long",
-          "instructions": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore."
-        }
-      },
-      "orderIndex": 2,
-      "previewURL": "",
-      "slideType": {
-        "name": "interactive_free_text"
-      },
-      "title": "Do You Think Motivational Thoughts?"
-    },
-    {
-      "subtitle": "",
-      "isTitleSlide": false,
-      "eLibraryTags": [],
-      "isHidden": false,
-      "settingAddToResources": false,
-      "githubFileName": null,
       "key": "cjpxksm0j01fc0167u3w3oos4What are eating disorder symptoms?3",
       "content": {
         "interactive": {
@@ -135,10 +74,49 @@
           "instructions": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore."
         }
       },
-      "orderIndex": 3,
+      "orderIndex": 1,
       "previewURL": "",
       "slideType": {
         "name": "interactive_categories"
+      },
+      "title": "What are eating disorder symptoms?"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpxksm0j01fc0167u3w3oos4What are eating disorder symptoms?2",
+      "content": {
+        "interactive": {
+          "type": "matching",
+          "leftColumn": {
+            "list": [
+              "Choise1",
+              "Choise2",
+              "Choise3",
+              "Choise4"
+            ],
+            "title": "Choise"
+          },
+          "rightColumn": {
+            "list": [
+              "Match1",
+              "Match2",
+              "Match3",
+              "Match4"
+            ],
+            "title": "Match"
+          },
+          "instructions": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore."
+        }
+      },
+      "orderIndex": 2,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_matching"
       },
       "title": "What are eating disorder symptoms?"
     }
