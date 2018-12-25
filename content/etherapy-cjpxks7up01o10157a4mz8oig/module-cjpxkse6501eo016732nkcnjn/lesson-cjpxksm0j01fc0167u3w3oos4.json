@@ -86,6 +86,60 @@
         "name": "interactive_free_text"
       },
       "title": "Do You Think Motivational Thoughts?"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpxksm0j01fc0167u3w3oos4What are eating disorder symptoms?3",
+      "content": {
+        "interactive": {
+          "type": "categories",
+          "firstCategory": {
+            "title": "Truth",
+            "list": [
+              {
+                "title": "item1"
+              },
+              {
+                "title": "item2"
+              },
+              {
+                "title": "item5"
+              },
+              {
+                "title": "item7"
+              }
+            ]
+          },
+          "secondCategory": {
+            "title": "Myth",
+            "list": [
+              {
+                "title": "item3"
+              },
+              {
+                "title": "item4"
+              },
+              {
+                "title": "item6"
+              },
+              {
+                "title": "item8"
+              }
+            ]
+          }
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_categories"
+      },
+      "title": "What are eating disorder symptoms?"
     }
   ]
 }
