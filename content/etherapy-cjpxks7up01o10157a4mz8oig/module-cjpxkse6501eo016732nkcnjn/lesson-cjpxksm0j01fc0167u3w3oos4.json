@@ -64,6 +64,28 @@
         "name": "interactive_multiple_answers"
       },
       "title": "tt"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpxksm0j01fc0167u3w3oos4Do You Think Motivational Thoughts?2",
+      "content": {
+        "interactive": {
+          "type": "free_text",
+          "length": "long",
+          "instructions": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore."
+        }
+      },
+      "orderIndex": null,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_free_text"
+      },
+      "title": "Do You Think Motivational Thoughts?"
     }
   ]
 }
