@@ -6,7 +6,13 @@
   "settingTimeLimited": false,
   "settingRestartInactiveInDays": 30,
   "id": "cjq4uipdz0cfv01124osltkwv",
-  "modules": [],
+  "modules": [
+    {
+      "id": "cjq4uizg00cgp0112zsie8shr",
+      "name": "Module 1",
+      "key": "cjq4uipdz0cfv01124osltkwvModule 1"
+    }
+  ],
   "settingTimeLimitInDays": 30,
   "publishedAt": null
 }
