@@ -14,17 +14,54 @@
       "subtitle": "New Lesson",
       "isTitleSlide": true,
       "eLibraryTags": [],
-      "isHidden": null,
+      "isHidden": true,
       "settingAddToResources": null,
       "githubFileName": null,
       "key": "cjq588tio033g0103v0y4l82f 2948308210 Title Slide",
       "content": {},
-      "orderIndex": null,
+      "orderIndex": 0,
       "previewURL": null,
       "slideType": {
         "name": "title_slide"
       },
       "title": "New Lesson"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq5891ow034701038y8udeakeee1",
+      "content": {
+        "interactive": {
+          "type": "matching",
+          "leftColumn": {
+            "list": [
+              "choice1",
+              "choice2",
+              "choice3"
+            ],
+            "title": "truth"
+          },
+          "rightColumn": {
+            "list": [
+              "match1",
+              "match2",
+              "match3"
+            ],
+            "title": "meh"
+          },
+          "instructions": "dfsdfsd"
+        }
+      },
+      "orderIndex": 1,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_matching"
+      },
+      "title": "eee"
     }
   ]
 }
