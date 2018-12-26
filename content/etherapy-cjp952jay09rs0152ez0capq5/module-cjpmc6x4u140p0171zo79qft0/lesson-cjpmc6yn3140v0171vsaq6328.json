@@ -1226,6 +1226,13 @@
                               "object": "mark",
                               "type": "italic",
                               "data": {}
+                            },
+                            {
+                              "object": "mark",
+                              "type": "definition",
+                              "data": {
+                                "definition": "definition 1"
+                              }
                             }
                           ]
                         },
