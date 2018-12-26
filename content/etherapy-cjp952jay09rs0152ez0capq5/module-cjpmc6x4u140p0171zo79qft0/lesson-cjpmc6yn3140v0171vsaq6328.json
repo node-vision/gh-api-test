@@ -106,6 +106,13 @@
                               "object": "mark",
                               "type": "italic",
                               "data": {}
+                            },
+                            {
+                              "object": "mark",
+                              "type": "definition",
+                              "data": {
+                                "definition": "def 1"
+                              }
                             }
                           ]
                         },
