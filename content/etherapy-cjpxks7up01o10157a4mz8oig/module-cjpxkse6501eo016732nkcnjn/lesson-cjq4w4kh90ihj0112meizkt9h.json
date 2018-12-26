@@ -68,6 +68,41 @@
         "name": "interactive_categories"
       },
       "title": "What are eating disorder symptoms?"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq4w4kh90ihj0112meizkt9hWhat are eating disorder symptoms?2",
+      "content": {
+        "interactive": {
+          "type": "matching",
+          "leftColumn": {
+            "list": [
+              "choice1",
+              "choice2"
+            ],
+            "title": "Truth"
+          },
+          "rightColumn": {
+            "list": [
+              "match1",
+              "match2"
+            ],
+            "title": "Myth"
+          },
+          "instructions": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore."
+        }
+      },
+      "orderIndex": 2,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_matching"
+      },
+      "title": "What are eating disorder symptoms?"
     }
   ]
 }
