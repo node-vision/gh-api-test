@@ -47,6 +47,45 @@
         "name": "interactive_free_text"
       },
       "title": "text"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq4pka7c0iu50160vfotmkcqWhat are eating disorder symptoms?2",
+      "content": {
+        "interactive": {
+          "type": "multiple_answers",
+          "answers": [
+            {
+              "title": "Answer1",
+              "checked": false
+            },
+            {
+              "title": "Answer2",
+              "checked": true
+            },
+            {
+              "title": "Answer3",
+              "checked": false
+            },
+            {
+              "title": "Answer4",
+              "checked": true
+            }
+          ],
+          "instructions": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore."
+        }
+      },
+      "orderIndex": 2,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_multiple_answers"
+      },
+      "title": "What are eating disorder symptoms?"
     }
   ]
 }
