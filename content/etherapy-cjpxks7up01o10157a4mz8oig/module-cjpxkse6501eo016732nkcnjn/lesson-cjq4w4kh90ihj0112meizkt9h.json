@@ -105,6 +105,45 @@
         "name": "interactive_matching"
       },
       "title": "What are eating disorder symptoms?"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq4w4kh90ihj0112meizkt9hfadsfs3",
+      "content": {
+        "interactive": {
+          "type": "multiple_answers",
+          "answers": [
+            {
+              "title": "dsafdsf",
+              "checked": true
+            },
+            {
+              "title": "sssss",
+              "checked": false
+            },
+            {
+              "title": "dfdfdf",
+              "checked": true
+            },
+            {
+              "title": "dfdfdf",
+              "checked": false
+            }
+          ],
+          "instructions": "gasdfsad"
+        }
+      },
+      "orderIndex": 3,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_multiple_answers"
+      },
+      "title": "fadsfs"
     }
   ]
 }
