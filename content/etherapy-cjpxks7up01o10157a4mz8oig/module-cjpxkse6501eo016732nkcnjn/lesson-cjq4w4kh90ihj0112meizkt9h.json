@@ -83,14 +83,16 @@
           "leftColumn": {
             "list": [
               "choice1",
-              "choice2"
+              "choice2",
+              "choice 3"
             ],
             "title": "Truth"
           },
           "rightColumn": {
             "list": [
               "match1",
-              "match2"
+              "match2",
+              "match3"
             ],
             "title": "Myth"
           },
