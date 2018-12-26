@@ -14,17 +14,60 @@
       "subtitle": "New Lesson",
       "isTitleSlide": true,
       "eLibraryTags": [],
-      "isHidden": null,
+      "isHidden": true,
       "settingAddToResources": null,
       "githubFileName": null,
       "key": "cjpxkse6501eo016732nkcnjn 234102451 Title Slide",
       "content": {},
-      "orderIndex": null,
+      "orderIndex": 0,
       "previewURL": null,
       "slideType": {
         "name": "title_slide"
       },
       "title": "New Lesson"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq4w4kh90ihj0112meizkt9hWhat are eating disorder symptoms?1",
+      "content": {
+        "interactive": {
+          "type": "categories",
+          "firstCategory": {
+            "title": "Truth",
+            "list": [
+              {
+                "title": "item 1"
+              },
+              {
+                "title": "item 3"
+              }
+            ]
+          },
+          "secondCategory": {
+            "title": "Myth",
+            "list": [
+              {
+                "title": "item 2"
+              },
+              {
+                "title": "item 4"
+              }
+            ]
+          },
+          "instructions": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore."
+        }
+      },
+      "orderIndex": 1,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_categories"
+      },
+      "title": "What are eating disorder symptoms?"
     }
   ]
 }
