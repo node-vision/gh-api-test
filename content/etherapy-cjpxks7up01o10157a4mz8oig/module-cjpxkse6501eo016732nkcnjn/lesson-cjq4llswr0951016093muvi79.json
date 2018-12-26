@@ -64,6 +64,28 @@
         "name": "interactive_matching"
       },
       "title": "What are eating disorder symptoms?"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq4llswr0951016093muvi79text2",
+      "content": {
+        "interactive": {
+          "type": "free_text",
+          "length": "short",
+          "instructions": "ffff"
+        }
+      },
+      "orderIndex": 2,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_free_text"
+      },
+      "title": "text"
     }
   ]
 }
