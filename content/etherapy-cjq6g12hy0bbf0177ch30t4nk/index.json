@@ -1,0 +1,12 @@
+{
+  "name": "testy",
+  "settingReminderInactiveInDays": 6,
+  "price": null,
+  "isPublished": null,
+  "settingTimeLimited": false,
+  "settingRestartInactiveInDays": 30,
+  "id": "cjq6g12hy0bbf0177ch30t4nk",
+  "modules": [],
+  "settingTimeLimitInDays": 30,
+  "publishedAt": null
+}
