@@ -38,11 +38,49 @@
         "interactive": {
           "type": "matching",
           "leftColumn": {
-            "list": [],
+            "list": [
+              {
+                "id": "choice1",
+                "title": "i1",
+                "answer": []
+              },
+              {
+                "id": "choice2",
+                "title": "i2",
+                "answer": []
+              },
+              {
+                "id": "choice3",
+                "title": "i3",
+                "answer": []
+              },
+              {
+                "id": "choice4",
+                "title": "i4",
+                "answer": []
+              }
+            ],
             "title": "hdfgh"
           },
           "rightColumn": {
-            "list": [],
+            "list": [
+              {
+                "id": "match1",
+                "title": "h1"
+              },
+              {
+                "id": "match2",
+                "title": "h2"
+              },
+              {
+                "id": "match3",
+                "title": "h3"
+              },
+              {
+                "id": "match4",
+                "title": "h4"
+              }
+            ],
             "title": "dhfg"
           },
           "instructions": "gfdhg"
