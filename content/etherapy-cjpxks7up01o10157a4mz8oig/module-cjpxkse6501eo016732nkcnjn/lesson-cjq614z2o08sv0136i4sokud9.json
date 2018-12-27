@@ -14,17 +14,60 @@
       "subtitle": "New Lesson",
       "isTitleSlide": true,
       "eLibraryTags": [],
-      "isHidden": null,
+      "isHidden": true,
       "settingAddToResources": null,
       "githubFileName": null,
       "key": "cjpxkse6501eo016732nkcnjn 4114402732 Title Slide",
       "content": {},
-      "orderIndex": null,
+      "orderIndex": 0,
       "previewURL": null,
       "slideType": {
         "name": "title_slide"
       },
       "title": "New Lesson"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq614z2o08sv0136i4sokud9jj1",
+      "content": {
+        "interactive": {
+          "type": "multiple_answers",
+          "answers": [
+            {
+              "title": "jjj",
+              "checked": false,
+              "isCorrect": true
+            },
+            {
+              "title": "jjhjhj",
+              "checked": false,
+              "isCorrect": false
+            },
+            {
+              "title": "jhjhj",
+              "checked": false,
+              "isCorrect": true
+            },
+            {
+              "title": "hjghjg",
+              "checked": false,
+              "isCorrect": false
+            }
+          ],
+          "instructions": "jjj"
+        }
+      },
+      "orderIndex": 1,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_multiple_answers"
+      },
+      "title": "jj"
     }
   ]
 }
