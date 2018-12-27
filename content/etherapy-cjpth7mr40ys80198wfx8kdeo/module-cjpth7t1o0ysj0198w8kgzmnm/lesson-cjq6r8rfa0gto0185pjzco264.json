@@ -25,6 +25,30 @@
         "name": "title_slide"
       },
       "title": "New Lesson 1"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq6r8rfa0gto0185pjzco264Mushroom1",
+      "content": {
+        "media": {
+          "url": "https://cdn-b.william-reed.com/var/wrbm_gb_hospitality/storage/images/publications/hospitality/morningadvertiser.co.uk/article/2018/09/12/are-mushrooms-healthy/2914064-1-eng-GB/Are-mushrooms-healthy_wrbm_large.jpg",
+          "imageSize": "fit",
+          "imageAlign": "alignRight",
+          "caption": "",
+          "type": "image"
+        }
+      },
+      "orderIndex": 1,
+      "previewURL": "",
+      "slideType": {
+        "name": "media"
+      },
+      "title": "Mushroom"
     }
   ]
 }
