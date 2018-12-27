@@ -1,0 +1,12 @@
+{
+  "name": "David Test",
+  "settingReminderInactiveInDays": 6,
+  "price": null,
+  "isPublished": null,
+  "settingTimeLimited": false,
+  "settingRestartInactiveInDays": 30,
+  "id": "cjq6g3om50blb0177vofsl2xb",
+  "modules": [],
+  "settingTimeLimitInDays": 30,
+  "publishedAt": null
+}
