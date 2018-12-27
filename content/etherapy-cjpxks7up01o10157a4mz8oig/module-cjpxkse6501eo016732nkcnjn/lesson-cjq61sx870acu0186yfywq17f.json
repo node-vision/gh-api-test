@@ -140,45 +140,11 @@
         "interactive": {
           "type": "matching",
           "leftColumn": {
-            "list": [
-              {
-                "id": 1,
-                "title": "choice1"
-              },
-              {
-                "id": 2,
-                "title": "choice2"
-              },
-              {
-                "id": 3,
-                "title": "choice3"
-              },
-              {
-                "id": 4,
-                "title": "choice4"
-              }
-            ],
+            "list": [],
             "title": "asd"
           },
           "rightColumn": {
-            "list": [
-              {
-                "id": 2,
-                "title": "match1"
-              },
-              {
-                "id": 3,
-                "title": "match2"
-              },
-              {
-                "id": 4,
-                "title": "match3"
-              },
-              {
-                "id": 5,
-                "title": "match4"
-              }
-            ],
+            "list": [],
             "title": "asdf"
           },
           "instructions": "adf"
