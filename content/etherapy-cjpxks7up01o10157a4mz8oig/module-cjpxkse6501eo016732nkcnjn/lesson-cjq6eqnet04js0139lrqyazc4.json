@@ -19,12 +19,75 @@
       "githubFileName": null,
       "key": "cjpxkse6501eo016732nkcnjn 3385559564 Title Slide",
       "content": {},
-      "orderIndex": null,
+      "orderIndex": 0,
       "previewURL": null,
       "slideType": {
         "name": "title_slide"
       },
       "title": "New Lesson"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq6eqnet04js0139lrqyazc4gfhdh1",
+      "content": {
+        "interactive": {
+          "type": "matching",
+          "leftColumn": {
+            "list": [
+              {
+                "id": "choice1",
+                "title": "i1"
+              },
+              {
+                "id": "choice2",
+                "title": "i2"
+              },
+              {
+                "id": "choice3",
+                "title": "i3"
+              },
+              {
+                "id": "choice4",
+                "title": "i4"
+              }
+            ],
+            "title": "hdfgh"
+          },
+          "rightColumn": {
+            "list": [
+              {
+                "id": "match1",
+                "title": "h1"
+              },
+              {
+                "id": "match2",
+                "title": "h2"
+              },
+              {
+                "id": "match3",
+                "title": "h3"
+              },
+              {
+                "id": "match4",
+                "title": "h4"
+              }
+            ],
+            "title": "dhfg"
+          },
+          "instructions": "gfdhg"
+        }
+      },
+      "orderIndex": 1,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_matching"
+      },
+      "title": "gfhdh"
     }
   ]
 }
