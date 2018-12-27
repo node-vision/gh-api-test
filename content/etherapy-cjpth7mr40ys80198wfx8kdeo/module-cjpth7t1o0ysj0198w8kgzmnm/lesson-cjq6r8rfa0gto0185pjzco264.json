@@ -1,6 +1,6 @@
 {
   "id": "cjq6r8rfa0gto0185pjzco264",
-  "title": "New Lesson",
+  "title": "New Lesson 1",
   "module": {
     "id": "cjpth7t1o0ysj0198w8kgzmnm",
     "name": "Module 1",
@@ -11,7 +11,7 @@
   },
   "slides": [
     {
-      "subtitle": "New Lesson",
+      "subtitle": "New Lesson 1",
       "isTitleSlide": true,
       "eLibraryTags": [],
       "isHidden": null,
@@ -19,12 +19,12 @@
       "githubFileName": null,
       "key": "cjpth7t1o0ysj0198w8kgzmnm 5061166588 Title Slide",
       "content": {},
-      "orderIndex": null,
+      "orderIndex": 0,
       "previewURL": null,
       "slideType": {
         "name": "title_slide"
       },
-      "title": "New Lesson"
+      "title": "New Lesson 1"
     }
   ]
 }
