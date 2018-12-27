@@ -127,6 +127,61 @@
         "name": "interactive_categories"
       },
       "title": "cc"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq61sx870acu0186yfywq17fasdf3",
+      "content": {
+        "interactive": {
+          "type": "matching",
+          "leftColumn": {
+            "list": [
+              {
+                "id": 1,
+                "title": "choice1"
+              },
+              {
+                "id": 2,
+                "title": "choice2"
+              },
+              {
+                "id": 3,
+                "title": "choice3"
+              }
+            ],
+            "title": "asd"
+          },
+          "rightColumn": {
+            "list": [
+              {
+                "id": 2,
+                "title": "match1"
+              },
+              {
+                "id": 3,
+                "title": "match2"
+              },
+              {
+                "id": 4,
+                "title": "match3"
+              }
+            ],
+            "title": "asdf"
+          },
+          "instructions": "adf"
+        }
+      },
+      "orderIndex": 3,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_matching"
+      },
+      "title": "asdf"
     }
   ]
 }
