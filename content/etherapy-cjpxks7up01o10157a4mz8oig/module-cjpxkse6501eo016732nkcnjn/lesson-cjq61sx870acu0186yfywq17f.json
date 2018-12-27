@@ -72,6 +72,49 @@
         "name": "interactive_multiple_answers"
       },
       "title": "ghg"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq61sx870acu0186yfywq17fcc2",
+      "content": {
+        "interactive": {
+          "type": "categories",
+          "firstCategory": {
+            "title": "Truth",
+            "list": [
+              {
+                "title": "item 1"
+              },
+              {
+                "title": "Item 2"
+              }
+            ]
+          },
+          "secondCategory": {
+            "title": "Myth",
+            "list": [
+              {
+                "title": "Item 3"
+              },
+              {
+                "title": "Item 4"
+              }
+            ]
+          },
+          "instructions": "cc"
+        }
+      },
+      "orderIndex": 2,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_categories"
+      },
+      "title": "cc"
     }
   ]
 }
