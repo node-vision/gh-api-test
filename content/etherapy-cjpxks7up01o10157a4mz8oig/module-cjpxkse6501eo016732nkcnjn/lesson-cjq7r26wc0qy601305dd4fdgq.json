@@ -14,17 +14,72 @@
       "subtitle": "New Lesson",
       "isTitleSlide": true,
       "eLibraryTags": [],
-      "isHidden": null,
+      "isHidden": true,
       "settingAddToResources": null,
       "githubFileName": null,
       "key": "cjpxkse6501eo016732nkcnjn 2557044998 Title Slide",
       "content": {},
-      "orderIndex": null,
+      "orderIndex": 0,
       "previewURL": null,
       "slideType": {
         "name": "title_slide"
       },
       "title": "New Lesson"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq7r26wc0qy601305dd4fdgqdsaf1",
+      "content": {
+        "interactive": {
+          "type": "categories",
+          "firstCategory": {
+            "title": "truth",
+            "list": [
+              {
+                "title": "item1"
+              },
+              {
+                "title": "item2"
+              },
+              {
+                "title": "item3"
+              },
+              {
+                "title": "item4"
+              }
+            ]
+          },
+          "secondCategory": {
+            "title": "myth",
+            "list": [
+              {
+                "title": "asnw1"
+              },
+              {
+                "title": "answ2"
+              },
+              {
+                "title": "answ3"
+              },
+              {
+                "title": "answ4"
+              }
+            ]
+          },
+          "instructions": "adfdsa"
+        }
+      },
+      "orderIndex": 1,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_categories"
+      },
+      "title": "dsaf"
     }
   ]
 }
