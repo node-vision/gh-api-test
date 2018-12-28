@@ -145,6 +145,28 @@
         "name": "interactive_categories"
       },
       "title": "Categories"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq6eqnet04js0139lrqyazc4slide3",
+      "content": {
+        "interactive": {
+          "type": "free_text",
+          "length": "short",
+          "instructions": "instruction"
+        }
+      },
+      "orderIndex": 3,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_free_text"
+      },
+      "title": "slide"
     }
   ]
 }
