@@ -3082,6 +3082,63 @@
         "name": "interactive_multiple_free_text"
       },
       "title": "Multiple Free Text"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpw8kcem0co50105n6241cvoMultiple Answers12",
+      "content": {
+        "interactive": {
+          "type": "multiple_answers",
+          "answers": [
+            {
+              "title": "Answer 1",
+              "checked": false
+            },
+            {
+              "title": "Answer 2",
+              "checked": true
+            },
+            {
+              "title": "Answer 3",
+              "checked": false
+            }
+          ],
+          "instructions": "Instructions"
+        }
+      },
+      "orderIndex": 12,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_multiple_answers"
+      },
+      "title": "Multiple Answers"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjpw8kcem0co50105n6241cvoFree Text13",
+      "content": {
+        "interactive": {
+          "type": "free_text",
+          "instructions": "Instructions",
+          "length": "long"
+        }
+      },
+      "orderIndex": 13,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_free_text"
+      },
+      "title": "Free Text"
     }
   ]
 }
