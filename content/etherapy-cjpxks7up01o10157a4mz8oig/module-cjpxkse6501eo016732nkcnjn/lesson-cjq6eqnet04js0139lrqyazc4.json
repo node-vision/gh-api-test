@@ -96,6 +96,55 @@
         "name": "interactive_matching"
       },
       "title": "gfhdh"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq6eqnet04js0139lrqyazc4Categories2",
+      "content": {
+        "interactive": {
+          "type": "categories",
+          "firstCategory": {
+            "title": "truth",
+            "list": [
+              {
+                "title": "item1"
+              },
+              {
+                "title": "item2"
+              },
+              {
+                "title": "item3"
+              }
+            ]
+          },
+          "secondCategory": {
+            "title": "myth",
+            "list": [
+              {
+                "title": "answ1"
+              },
+              {
+                "title": "answ2"
+              },
+              {
+                "title": "answ3"
+              }
+            ]
+          },
+          "instructions": "Instruction"
+        }
+      },
+      "orderIndex": 2,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_categories"
+      },
+      "title": "Categories"
     }
   ]
 }
