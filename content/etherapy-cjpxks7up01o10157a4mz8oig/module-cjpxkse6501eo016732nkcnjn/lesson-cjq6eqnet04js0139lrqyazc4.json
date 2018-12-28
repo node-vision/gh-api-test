@@ -167,6 +167,53 @@
         "name": "interactive_free_text"
       },
       "title": "slide"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq6eqnet04js0139lrqyazc4hh4",
+      "content": {
+        "interactive": {
+          "type": "multiple_answers",
+          "answers": [
+            {
+              "id": "0",
+              "title": "answer1",
+              "checked": false,
+              "isCorrect": false
+            },
+            {
+              "id": "1",
+              "title": "answer2",
+              "checked": false,
+              "isCorrect": true
+            },
+            {
+              "id": "3",
+              "title": "answer3",
+              "checked": false,
+              "isCorrect": false
+            },
+            {
+              "id": "4",
+              "title": "answer4",
+              "checked": false,
+              "isCorrect": true
+            }
+          ],
+          "instructions": "gds"
+        }
+      },
+      "orderIndex": 4,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_multiple_answers"
+      },
+      "title": "hh"
     }
   ]
 }
