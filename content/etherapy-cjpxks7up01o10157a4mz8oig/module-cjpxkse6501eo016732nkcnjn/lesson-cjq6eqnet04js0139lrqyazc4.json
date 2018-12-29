@@ -214,6 +214,31 @@
         "name": "interactive_multiple_answers"
       },
       "title": "hh"
+    },
+    {
+      "subtitle": "",
+      "isTitleSlide": false,
+      "eLibraryTags": [],
+      "isHidden": false,
+      "settingAddToResources": false,
+      "githubFileName": null,
+      "key": "cjq6eqnet04js0139lrqyazc4zdsa5",
+      "content": {
+        "interactive": {
+          "type": "multiple_free_text",
+          "columns": [
+            "dsfadf",
+            "sdfa",
+            "dafsd"
+          ]
+        }
+      },
+      "orderIndex": 5,
+      "previewURL": "",
+      "slideType": {
+        "name": "interactive_multiple_free_text"
+      },
+      "title": "zdsa"
     }
   ]
 }
