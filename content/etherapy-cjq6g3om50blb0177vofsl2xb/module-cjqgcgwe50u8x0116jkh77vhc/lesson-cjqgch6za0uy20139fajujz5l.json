@@ -1,0 +1,30 @@
+{
+  "id": "cjqgch6za0uy20139fajujz5l",
+  "title": "New Lesson",
+  "module": {
+    "id": "cjqgcgwe50u8x0116jkh77vhc",
+    "name": "Module 1",
+    "eTherapy": {
+      "id": "cjq6g3om50blb0177vofsl2xb",
+      "name": "David Test"
+    }
+  },
+  "slides": [
+    {
+      "subtitle": "New Lesson",
+      "isTitleSlide": true,
+      "eLibraryTags": [],
+      "isHidden": null,
+      "settingAddToResources": null,
+      "githubFileName": null,
+      "key": "cjqgcgwe50u8x0116jkh77vhc 7970864402 Title Slide",
+      "content": {},
+      "orderIndex": null,
+      "previewURL": null,
+      "slideType": {
+        "name": "title_slide"
+      },
+      "title": "New Lesson"
+    }
+  ]
+}
