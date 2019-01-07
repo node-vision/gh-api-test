@@ -1,6 +1,6 @@
 {
   "id": "cjqmxlf650a7j0190958m9m6x",
-  "title": "New Lesson",
+  "title": "Questionnaire",
   "module": {
     "id": "cjptiet69133101984xrbvjoa",
     "name": "Module 2",
@@ -24,7 +24,7 @@
       "slideType": {
         "name": "title_slide"
       },
-      "title": "New Lesson"
+      "title": "Questionnaire"
     }
   ]
 }
